@@ -1,0 +1,1361 @@
+Customer ID,Customer Age,Gender,Product Category,Product Name,Quantity,Price,Total Amount,Payment Method,Shopping Date,City
+IND-CUST-1506,23,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,UPI,2026-01-06,Delhi NCR
+IND-CUST-1104,48,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,Cash on Delivery,2025-06-01,Kolkata
+IND-CUST-1271,26,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,Net Banking,2026-03-13,Chennai
+IND-CUST-1298,33,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2026-03-12,Mumbai
+IND-CUST-1047,22,Female,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-07-03,Kochi
+IND-CUST-1449,25,Other,Books & Stationery,Classic Fountain Pen with Ink Cartridges,3,799.0,2397.0,UPI,2026-02-22,Kochi
+IND-CUST-1351,30,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Credit Card,2026-03-04,Lucknow
+IND-CUST-1395,32,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,Credit Card,2026-02-13,Hyderabad
+IND-CUST-1171,66,Female,Electronics,Wireless Noise-Canceling Earbuds,5,2999.0,14995.0,Net Banking,2025-02-23,Lucknow
+IND-CUST-1427,31,Other,Sports & Fitness,Lightweight Badminton Racket with Cover,2,1699.0,3398.0,Debit Card,2025-04-03,Ahmedabad
+IND-CUST-1389,29,Other,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Debit Card,2026-03-06,Bengaluru
+IND-CUST-1134,45,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2025-01-24,Ahmedabad
+IND-CUST-1065,22,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,0.0,Net Banking,2025-09-26,Kolkata
+IND-CUST-1591,35,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,4,499.0,1996.0,Credit Card,2025-06-23,Bengaluru
+IND-CUST-1532,47,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,UPI,2026-01-08,Bengaluru
+IND-CUST-1255,32,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,UPI,2026-03-06,Ahmedabad
+IND-CUST-1572,26,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Credit Card,2025-03-22,Lucknow
+IND-CUST-1518,33,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,3,1699.0,5097.0,UPI,2025-09-09,Pune
+IND-CUST-1329,25,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-11-26,Delhi NCR
+IND-CUST-1388,22,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2025-10-21,Ahmedabad
+IND-CUST-1459,29,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-09-12,Pune
+IND-CUST-1019,34,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Credit Card,2026-02-27,Chandigarh
+IND-CUST-1094,30,Other,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Net Banking,2025-10-15,Jaipur
+IND-CUST-1212,18,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,4,1399.0,5596.0,UPI,2025-01-28,Chennai
+IND-CUST-1229,34,Female,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,Credit Card,2025-08-31,Lucknow
+IND-CUST-1373,32,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Credit Card,2025-01-02,Kolkata
+IND-CUST-1350,33,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-02-24,Bengaluru
+IND-CUST-1047,22,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Debit Card,2026-01-05,Kochi
+IND-CUST-1420,31,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Cash on Delivery,2025-07-21,Mumbai
+IND-CUST-1221,21,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,UPI,2025-08-01,Chennai
+IND-CUST-1048,27,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,Net Banking,2025-08-23,Pune
+IND-CUST-1604,28,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,4,499.0,1996.0,UPI,2026-01-12,Kolkata
+IND-CUST-1050,22,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,Credit Card,2025-09-18,Chennai
+IND-CUST-1182,23,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,2,499.0,998.0,UPI,2025-07-18,Ahmedabad
+IND-CUST-1615,26,Other,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,UPI,2025-11-08,Jaipur
+IND-CUST-1255,32,Male,Clothing & Fashion,Waterproof Windcheater Jacket,,2299.0,9196.0,Credit Card,2025-03-10,Ahmedabad
+IND-CUST-1142,21,Male,Clothing & Fashion,Comfort Fleece Winter Hoodie,3,1899.0,5697.0,Credit Card,2025-06-10,Mumbai
+IND-CUST-1567,28,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Debit Card,2025-12-18,Mumbai
+IND-CUST-1354,32,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,5,499.0,2495.0,Credit Card,2025-04-02,Kolkata
+IND-CUST-1516,50,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-06-30,Pune
+IND-CUST-1576,30,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,4,699.0,2796.0,Debit Card,2025-12-12,Kochi
+IND-CUST-1547,18,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,2,1599.0,3198.0,Credit Card,2025-01-13,Kolkata
+IND-CUST-1391,37,Other,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Debit Card,2025-03-24,Pune
+IND-CUST-1294,34,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,2,499.0,998.0,Debit Card,2025-06-01,Kolkata
+IND-CUST-1209,27,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Credit Card,2025-11-12,Kochi
+IND-CUST-1576,30,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,UPI,2025-09-19,Kochi
+IND-CUST-1295,22,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,3,599.0,1797.0,UPI,2026-02-08,Ahmedabad
+IND-CUST-1321,23,Female,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,UPI,2025-11-14,Chennai
+IND-CUST-1454,39,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,Credit Card,2026-01-22,Chandigarh
+IND-CUST-1603,30,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Debit Card,2025-04-10,Ahmedabad
+IND-CUST-1302,29,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-09-21,Chennai
+IND-CUST-1123,33,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-03-24,Kolkata
+IND-CUST-1599,33,Other,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,Debit Card,2025-03-21,Kolkata
+IND-CUST-1041,18,Female,Electronics,Precision Wireless Mouse,2,999.0,1998.0,Debit Card,2025-11-17,Bengaluru
+IND-CUST-1309,38,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-12-29,Ahmedabad
+IND-CUST-1326,25,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Debit Card,2025-03-23,Chennai
+IND-CUST-1426,28,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2025-04-20,Jaipur
+IND-CUST-1340,59,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Debit Card,2025-09-29,Kochi
+IND-CUST-1487,38,Male,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,UPI,2025-05-04,Bengaluru
+IND-CUST-1250,61,Other,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Debit Card,2025-02-28,Chandigarh
+IND-CUST-1396,41,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Credit Card,2026-01-30,Lucknow
+IND-CUST-1384,45,Other,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-11-30,Ahmedabad
+IND-CUST-1198,37,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,4,699.0,2796.0,UPI,2026-01-31,Kolkata
+IND-CUST-1551,22,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Debit Card,2026-02-01,Kochi
+IND-CUST-1219,37,Other,Sports & Fitness,Lightweight Badminton Racket with Cover,2,1699.0,3398.0,UPI,2026-03-01,Pune
+IND-CUST-1446,48,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,UPI,2025-08-24,Jaipur
+IND-CUST-1340,59,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Debit Card,2025-10-13,Kochi
+IND-CUST-1073,33,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,3,4999.0,14997.0,UPI,2025-08-19,Ahmedabad
+IND-CUST-1415,23,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-01-04,Delhi NCR
+IND-CUST-1065,22,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Net Banking,2025-07-03,Kolkata
+IND-CUST-1515,45,Male,Electronics,Ergonomic Mechanical Keyboard,2,,7998.0,UPI,2025-08-13,Bengaluru
+IND-CUST-1391,37,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Credit Card,2025-03-11,Pune
+IND-CUST-1401,22,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Credit Card,2025-06-02,Kolkata
+IND-CUST-1383,21,Female,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Credit Card,2025-03-05,Ahmedabad
+IND-CUST-1043,18,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Cash on Delivery,2025-06-06,Chandigarh
+IND-CUST-1216,35,Other,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2025-11-27,Kolkata
+IND-CUST-1525,30,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Net Banking,2025-04-10,Hyderabad
+IND-CUST-1118,22,Male,Electronics,Wireless Noise-Canceling Earbuds,3,2999.0,8997.0,Cash on Delivery,2025-10-09,Kochi
+IND-CUST-1473,42,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,UPI,2025-02-20,Chennai
+IND-CUST-1203,27,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,4,699.0,2796.0,UPI,2025-12-10,Jaipur
+IND-CUST-1241,49,Female,Electronics,Smart Fitness Watch V2,3,4499.0,13497.0,UPI,2025-08-19,Lucknow
+IND-CUST-1337,31,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,2,2899.0,5798.0,UPI,2025-10-18,Delhi NCR
+IND-CUST-1374,34,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2026-02-07,Jaipur
+IND-CUST-1227,35,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Net Banking,2025-03-10,Jaipur
+IND-CUST-1340,59,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Debit Card,2025-09-07,Kochi
+IND-CUST-1565,32,Female,Electronics,Smart Fitness Watch V2,3,4499.0,13497.0,Net Banking,2025-03-13,Jaipur
+IND-CUST-1552,25,Male,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Net Banking,2026-03-11,Chennai
+IND-CUST-1520,43,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,UPI,2025-10-30,Bengaluru
+IND-CUST-1218,37,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Net Banking,2025-10-04,Kolkata
+IND-CUST-1484,53,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2026-01-31,Ahmedabad
+IND-CUST-1604,28,Male,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,Credit Card,2025-02-16,Kolkata
+IND-CUST-1407,35,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,Net Banking,2026-02-17,Delhi NCR
+IND-CUST-1170,48,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-10-17,Jaipur
+IND-CUST-1150,24,Other,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,3,699.0,2097.0,UPI,2026-01-25,Ahmedabad
+IND-CUST-1500,36,Other,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-04-16,Chennai
+IND-CUST-1531,21,Female,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,Net Banking,2026-03-28,Hyderabad
+IND-CUST-1048,27,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,Cash on Delivery,2025-11-21,Pune
+IND-CUST-1281,49,Other,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,Credit Card,2025-07-12,Chandigarh
+IND-CUST-1388,22,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-04-25,Ahmedabad
+IND-CUST-1529,35,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Credit Card,2025-11-06,Ahmedabad
+IND-CUST-1007,54,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2025-09-21,Mumbai
+IND-CUST-1288,30,Other,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Credit Card,2026-02-23,Hyderabad
+IND-CUST-1122,34,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,Debit Card,2025-09-04,Hyderabad
+IND-CUST-1491,19,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,2,2499.0,4998.0,UPI,2025-05-05,Hyderabad
+IND-CUST-1045,32,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Credit Card,2025-10-21,Chennai
+IND-CUST-1151,32,Male,Electronics,Ergonomic Mechanical Keyboard,3,3999.0,11997.0,Credit Card,2025-07-27,Delhi NCR
+IND-CUST-1614,25,Other,Books & Stationery,Data Science & Machine Learning with Python,3,899.0,2697.0,Debit Card,2026-02-25,Delhi NCR
+IND-CUST-1291,20,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Cash on Delivery,2026-03-21,Lucknow
+IND-CUST-1494,22,Other,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,Debit Card,2026-02-25,Bengaluru
+IND-CUST-1187,36,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Debit Card,2025-06-25,Kochi
+IND-CUST-1465,46,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,UPI,2025-02-25,Hyderabad
+IND-CUST-1017,48,Female,Electronics,Noise-Canceling Over-Ear Headphones,2,7999.0,15998.0,Debit Card,2025-11-07,Chandigarh
+IND-CUST-1099,35,Male,Electronics,Wireless Noise-Canceling Earbuds,3,2999.0,8997.0,Credit Card,2026-01-21,Kolkata
+IND-CUST-1121,69,Male,Electronics,Bluetooth Portable Bass Speaker,3,1899.0,5697.0,Credit Card,2025-01-01,Hyderabad
+IND-CUST-1442,32,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,3,2899.0,8697.0,Debit Card,2025-08-08,Chandigarh
+IND-CUST-1235,20,Other,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,UPI,2025-10-29,Mumbai
+IND-CUST-1590,23,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Debit Card,2026-03-16,Hyderabad
+IND-CUST-1086,36,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2026-01-16,Kochi
+IND-CUST-1008,35,Other,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,UPI,2025-04-16,Mumbai
+IND-CUST-1324,27,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Credit Card,2025-05-10,Pune
+IND-CUST-1268,22,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Credit Card,2025-12-15,Delhi NCR
+IND-CUST-1407,35,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2025-04-02,Delhi NCR
+IND-CUST-1380,25,Other,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2025-06-26,Jaipur
+IND-CUST-1408,22,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2026-02-05,Kolkata
+IND-CUST-1166,47,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2025-10-09,Hyderabad
+IND-CUST-1054,30,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Debit Card,2025-08-30,Chandigarh
+IND-CUST-1615,26,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-11-08,Jaipur
+IND-CUST-1039,59,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,Credit Card,2025-12-31,Chennai
+IND-CUST-1612,42,Female,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-04-14,Bengaluru
+IND-CUST-1531,21,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,Credit Card,2025-12-24,Hyderabad
+IND-CUST-1238,21,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-01-01,Delhi NCR
+IND-CUST-1162,25,Male,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2025-07-22,Pune
+IND-CUST-1416,33,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Debit Card,2025-02-16,Lucknow
+IND-CUST-1563,21,Other,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Debit Card,2025-04-26,Kolkata
+IND-CUST-1200,42,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-07-28,Lucknow
+IND-CUST-1519,28,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-03-01,Bengaluru
+IND-CUST-1526,20,Other,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,Credit Card,2025-12-22,Bengaluru
+IND-CUST-1454,39,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,UPI,2025-06-23,Chandigarh
+IND-CUST-1470,20,Other,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,3,2199.0,6597.0,Credit Card,2025-05-13,Delhi NCR
+IND-CUST-1070,32,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,UPI,2025-06-11,Kolkata
+IND-CUST-1423,34,Other,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,Debit Card,2025-05-15,Kochi
+IND-CUST-1255,32,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,2,1599.0,3198.0,Debit Card,2025-02-08,Ahmedabad
+IND-CUST-1568,49,Male,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-10-21,Chennai
+IND-CUST-1276,34,Female,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,UPI,2026-01-12,Hyderabad
+IND-CUST-1248,50,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,Net Banking,2026-03-05,Bengaluru
+IND-CUST-1365,34,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-12-06,Kolkata
+IND-CUST-1505,61,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,3,3299.0,9897.0,Cash on Delivery,2026-03-11,Lucknow
+IND-CUST-1494,22,Other,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Cash on Delivery,2025-10-22,Bengaluru
+IND-CUST-1282,20,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,3,3299.0,9897.0,UPI,2025-04-24,Delhi NCR
+IND-CUST-1591,35,Other,Electronics,Noise-Canceling Over-Ear Headphones,2,7999.0,15998.0,Credit Card,2025-10-04,Bengaluru
+IND-CUST-1034,36,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,3,1399.0,4197.0,Debit Card,2025-08-23,Hyderabad
+IND-CUST-1124,35,Other,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2025-12-12,Mumbai
+IND-CUST-1216,35,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Credit Card,2025-05-13,Kolkata
+IND-CUST-1192,24,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Cash on Delivery,2025-06-25,Pune
+IND-CUST-1375,37,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Debit Card,2025-07-10,Hyderabad
+IND-CUST-1374,34,Female,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,Credit Card,2025-10-22,Jaipur
+IND-CUST-1235,20,Other,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,UPI,2025-08-10,Mumbai
+IND-CUST-1391,37,Other,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-08-04,Pune
+IND-CUST-1512,32,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2025-09-07,Hyderabad
+IND-CUST-1308,28,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-01-31,Bengaluru
+IND-CUST-1221,21,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,2,1699.0,3398.0,UPI,2026-01-17,Chennai
+IND-CUST-1343,27,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Cash on Delivery,2025-05-12,Hyderabad
+IND-CUST-1353,18,Male,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Debit Card,2025-11-07,Delhi NCR
+IND-CUST-1204,18,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,UPI,2026-02-04,Lucknow
+IND-CUST-1292,23,Other,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,UPI,2025-02-10,Kochi
+IND-CUST-1391,37,Other,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,UPI,2025-03-27,Pune
+IND-CUST-1346,35,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,3,1599.0,4797.0,UPI,2025-03-24,Lucknow
+IND-CUST-1352,35,Other,Electronics,Precision Wireless Mouse,2,999.0,1998.0,Debit Card,2025-11-06,Mumbai
+IND-CUST-1405,31,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,Cash on Delivery,2026-01-18,Kolkata
+IND-CUST-1602,33,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2025-01-12,Bengaluru
+IND-CUST-1129,21,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Debit Card,2026-01-19,Chennai
+IND-CUST-1082,43,Other,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,UPI,2026-03-26,Chennai
+IND-CUST-1485,18,Other,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,Credit Card,2025-02-12,Delhi NCR
+IND-CUST-1107,23,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Cash on Delivery,2025-07-19,Pune
+IND-CUST-1317,26,Male,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-09-27,Lucknow
+IND-CUST-1175,29,Female,Electronics,Precision Wireless Mouse,3,999.0,2997.0,UPI,2025-09-01,Pune
+IND-CUST-1479,46,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,3,450.0,1350.0,Credit Card,2025-03-11,Bengaluru
+IND-CUST-1553,25,Other,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,Credit Card,2025-10-16,Chennai
+IND-CUST-1446,48,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Net Banking,2025-09-04,Jaipur
+IND-CUST-1553,25,Other,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-05-14,Chennai
+IND-CUST-1160,35,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-03-11,Delhi NCR
+IND-CUST-1353,18,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,Credit Card,2026-01-22,Delhi NCR
+IND-CUST-1489,33,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,2,1599.0,3198.0,Credit Card,2026-02-12,Kochi
+IND-CUST-1008,35,Other,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Credit Card,2025-07-22,Mumbai
+IND-CUST-1256,45,Female,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,UPI,2025-02-10,Kolkata
+IND-CUST-1433,30,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,2,699.0,1398.0,Net Banking,2026-02-18,Delhi NCR
+IND-CUST-1279,22,Male,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Net Banking,2025-04-04,Ahmedabad
+IND-CUST-1140,25,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,UPI,2025-11-15,Delhi NCR
+IND-CUST-1504,24,Other,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Cash on Delivery,2025-01-12,Delhi NCR
+IND-CUST-1191,22,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Debit Card,2026-01-08,Kolkata
+IND-CUST-1009,60,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-08-04,Mumbai
+IND-CUST-1320,38,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,5,699.0,3495.0,Credit Card,2026-02-10,Jaipur
+IND-CUST-1033,27,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Debit Card,2025-02-06,Ahmedabad
+IND-CUST-1557,21,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,3,1499.0,4497.0,UPI,2025-07-15,Chandigarh
+IND-CUST-1013,26,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Cash on Delivery,2025-05-07,Hyderabad
+IND-CUST-1035,21,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Cash on Delivery,2025-08-31,Chennai
+IND-CUST-1399,30,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,3,449.0,1347.0,UPI,2026-01-08,Jaipur
+IND-CUST-1044,21,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-11-23,Bengaluru
+IND-CUST-1306,27,Female,Electronics,Wireless Noise-Canceling Earbuds,3,2999.0,8997.0,UPI,2025-02-27,Chennai
+IND-CUST-1242,26,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Debit Card,2025-10-27,Ahmedabad
+IND-CUST-1123,33,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2026-02-06,Kolkata
+IND-CUST-1487,38,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-03-22,Bengaluru
+IND-CUST-1512,32,Female,Electronics,Precision Wireless Mouse,3,999.0,2997.0,Cash on Delivery,2025-11-17,Hyderabad
+IND-CUST-1062,29,Female,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,Debit Card,2025-03-06,Hyderabad
+IND-CUST-1500,36,Other,Electronics,Noise-Canceling Over-Ear Headphones,2,7999.0,15998.0,Debit Card,2026-02-17,Chennai
+IND-CUST-1450,23,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,UPI,2025-03-10,Hyderabad
+IND-CUST-1257,35,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,2,1699.0,3398.0,Credit Card,2025-10-05,Chandigarh
+IND-CUST-1502,36,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-08-28,Kolkata
+IND-CUST-1282,20,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,3,1099.0,3297.0,Credit Card,2025-02-05,Delhi NCR
+IND-CUST-1544,32,Male,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,Credit Card,2025-08-21,Pune
+IND-CUST-1001,19,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-01-10,Lucknow
+IND-CUST-1373,32,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-10-03,Kolkata
+IND-CUST-1397,19,Male,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,UPI,2025-05-25,Hyderabad
+IND-CUST-1331,26,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Credit Card,2025-02-04,Jaipur
+IND-CUST-1045,32,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,UPI,2025-02-24,Chennai
+IND-CUST-1498,69,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Net Banking,2025-12-03,Lucknow
+IND-CUST-1502,36,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,UPI,2025-04-24,Kolkata
+IND-CUST-1073,33,Female,Electronics,4K Ultra HD Streaming Stick,2,3499.0,6998.0,Cash on Delivery,2026-03-03,Ahmedabad
+IND-CUST-1082,43,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-08-01,Chennai
+IND-CUST-1378,30,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,UPI,2025-01-21,Kochi
+IND-CUST-1073,33,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,4,899.0,3596.0,Cash on Delivery,2025-02-19,Ahmedabad
+IND-CUST-1104,48,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-12-03,Kolkata
+IND-CUST-1255,32,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Credit Card,2026-01-18,Ahmedabad
+IND-CUST-1109,18,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Credit Card,2025-12-07,Ahmedabad
+IND-CUST-1438,28,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,Credit Card,2025-09-16,Kochi
+IND-CUST-1346,35,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,5,699.0,3495.0,UPI,2025-06-30,Lucknow
+IND-CUST-1323,31,Other,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,3,2899.0,8697.0,UPI,2025-11-21,Chennai
+IND-CUST-1441,62,Male,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2025-04-20,Delhi NCR
+IND-CUST-1385,26,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Cash on Delivery,2025-08-18,Jaipur
+IND-CUST-1407,35,Female,Electronics,Wireless Noise-Canceling Earbuds,5,2999.0,14995.0,Credit Card,2025-09-23,Delhi NCR
+IND-CUST-1139,18,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Cash on Delivery,2025-04-20,Pune
+IND-CUST-1323,31,Other,Electronics,Ergonomic Mechanical Keyboard,3,3999.0,11997.0,Credit Card,2025-10-20,Chennai
+IND-CUST-1586,50,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-05-16,Chennai
+IND-CUST-1376,31,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,Debit Card,2025-02-17,Lucknow
+IND-CUST-1585,45,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,Debit Card,2026-02-10,Chandigarh
+IND-CUST-1495,67,Male,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,UPI,2026-01-10,Mumbai
+IND-CUST-1591,35,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,3,1799.0,5397.0,UPI,2026-03-27,Bengaluru
+IND-CUST-1445,33,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,3,699.0,2097.0,UPI,2025-12-01,Kochi
+IND-CUST-1617,30,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,Credit Card,2025-06-13,Hyderabad
+IND-CUST-1553,25,Other,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,UPI,2025-01-26,Chennai
+IND-CUST-1403,25,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,UPI,2025-08-10,Delhi NCR
+IND-CUST-1297,32,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-10-20,Pune
+IND-CUST-1051,40,Other,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Credit Card,2026-02-01,Jaipur
+IND-CUST-1134,45,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2025-11-30,Ahmedabad
+IND-CUST-1586,50,Male,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2026-02-02,Chennai
+IND-CUST-1441,62,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-07-07,Delhi NCR
+IND-CUST-1357,24,Female,Electronics,Precision Wireless Mouse,2,999.0,1998.0,UPI,2025-06-06,Delhi NCR
+IND-CUST-1174,33,Other,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,Debit Card,2025-11-16,Pune
+IND-CUST-1150,24,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2026-01-23,Ahmedabad
+IND-CUST-1088,44,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Credit Card,2025-03-17,Ahmedabad
+IND-CUST-1295,22,Male,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2025-06-19,Ahmedabad
+IND-CUST-1215,27,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Credit Card,2025-05-13,Mumbai
+IND-CUST-1562,20,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,5,1199.0,5995.0,Debit Card,2025-12-09,Hyderabad
+IND-CUST-1019,34,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-04-13,Chandigarh
+IND-CUST-1278,48,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Credit Card,2025-12-06,Kochi
+IND-CUST-1369,37,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,Net Banking,2025-07-17,Bengaluru
+IND-CUST-1237,19,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,4,450.0,1800.0,UPI,2025-06-11,Delhi NCR
+IND-CUST-1497,31,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,UPI,2025-08-23,Lucknow
+IND-CUST-1575,49,Female,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Cash on Delivery,2025-06-06,Delhi NCR
+IND-CUST-1342,33,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-06-30,Lucknow
+IND-CUST-1364,20,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,5,4999.0,24995.0,Cash on Delivery,2025-05-22,Chandigarh
+IND-CUST-1064,34,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,3,1399.0,4197.0,Debit Card,2025-01-16,Mumbai
+IND-CUST-1569,33,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Net Banking,2025-12-03,Chennai
+IND-CUST-1141,22,Other,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Debit Card,2026-03-23,Kochi
+IND-CUST-1233,27,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-11-06,Chennai
+IND-CUST-1338,24,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-10-05,Mumbai
+IND-CUST-1208,45,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Net Banking,2025-03-11,Delhi NCR
+IND-CUST-1441,62,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,2,499.0,998.0,Credit Card,2025-03-22,Delhi NCR
+IND-CUST-1326,25,Female,Electronics,Noise-Canceling Over-Ear Headphones,4,7999.0,31996.0,UPI,2025-06-12,Chennai
+IND-CUST-1150,24,Other,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,3,449.0,1347.0,UPI,2025-07-30,Ahmedabad
+IND-CUST-1311,32,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-03-09,Jaipur
+IND-CUST-1190,58,Male,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,Credit Card,2025-11-02,Lucknow
+IND-CUST-1238,21,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Debit Card,2025-09-02,Delhi NCR
+IND-CUST-1138,18,Male,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Credit Card,2025-04-05,Kolkata
+IND-CUST-1397,19,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2025-07-29,Hyderabad
+IND-CUST-1016,24,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,Debit Card,2025-04-14,Jaipur
+IND-CUST-1210,40,Male,Electronics,Dual-Port 65W GaN Charger,3,1999.0,5997.0,Credit Card,2025-06-16,Pune
+IND-CUST-1469,19,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2026-01-12,Chandigarh
+IND-CUST-1390,32,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,Debit Card,2025-11-01,Chandigarh
+IND-CUST-1550,57,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,Credit Card,2025-08-20,Lucknow
+IND-CUST-1468,33,Other,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,3,899.0,2697.0,UPI,2025-10-03,Mumbai
+IND-CUST-1406,42,Other,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Credit Card,2025-11-19,Jaipur
+IND-CUST-1051,40,Other,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2026-02-28,Jaipur
+IND-CUST-1293,29,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Net Banking,2025-12-20,Bengaluru
+IND-CUST-1530,22,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,2,1699.0,3398.0,Credit Card,2026-01-05,Kochi
+IND-CUST-1513,19,Male,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2025-08-19,Hyderabad
+IND-CUST-1026,34,Female,Electronics,4K Ultra HD Streaming Stick,3,3499.0,10497.0,UPI,2025-06-15,Kolkata
+IND-CUST-1168,27,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Debit Card,2025-11-21,Bengaluru
+IND-CUST-1372,47,Other,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,Cash on Delivery,2025-11-10,Kochi
+IND-CUST-1164,33,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-06-21,Kochi
+IND-CUST-1580,56,Male,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,UPI,2026-01-29,Kochi
+IND-CUST-1053,43,Male,Clothing & Fashion,Comfort Fleece Winter Hoodie,2,1899.0,3798.0,Cash on Delivery,2025-05-28,Mumbai
+IND-CUST-1186,22,Female,Electronics,Bluetooth Portable Bass Speaker,4,1899.0,7596.0,UPI,2026-01-27,Mumbai
+IND-CUST-1260,26,Other,Electronics,Dual-Port 65W GaN Charger,3,1999.0,5997.0,Credit Card,2025-01-03,Chandigarh
+IND-CUST-1506,23,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-11-04,Delhi NCR
+IND-CUST-1615,26,Other,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,Credit Card,2026-02-24,Jaipur
+IND-CUST-1213,28,Male,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-03-16,Bengaluru
+IND-CUST-1034,36,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Cash on Delivery,2025-01-26,Hyderabad
+IND-CUST-1112,34,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-12-05,Jaipur
+IND-CUST-1610,21,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Credit Card,2025-10-24,Lucknow
+IND-CUST-1369,37,Female,Books & Stationery,Data Science & Machine Learning with Python,2,899.0,1798.0,UPI,2025-07-14,Bengaluru
+IND-CUST-1070,32,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Credit Card,2025-03-04,Kolkata
+IND-CUST-1282,20,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Debit Card,2025-11-10,Delhi NCR
+IND-CUST-1060,47,Male,Electronics,Noise-Canceling Over-Ear Headphones,5,7999.0,39995.0,Credit Card,2025-12-19,Chandigarh
+IND-CUST-1620,36,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Net Banking,2025-05-13,Chandigarh
+IND-CUST-1539,61,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-10-16,Hyderabad
+IND-CUST-1509,38,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Debit Card,2026-03-29,Kochi
+IND-CUST-1239,30,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-11-17,Lucknow
+IND-CUST-1121,69,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,2,499.0,998.0,Cash on Delivery,2025-07-31,Hyderabad
+IND-CUST-1047,22,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2025-05-25,Kochi
+IND-CUST-1261,19,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,Credit Card,2026-01-28,Jaipur
+IND-CUST-1007,54,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,Debit Card,2025-11-12,Mumbai
+IND-CUST-1030,18,Male,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,UPI,2025-12-11,Pune
+IND-CUST-1491,19,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,2,899.0,1798.0,Credit Card,2025-11-18,Hyderabad
+IND-CUST-1472,25,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,3,1099.0,3297.0,Credit Card,2026-02-21,Kochi
+IND-CUST-1424,33,Other,Books & Stationery,Data Science & Machine Learning with Python,2,899.0,1798.0,UPI,2026-01-07,Kochi
+IND-CUST-1324,27,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Debit Card,2026-02-14,Pune
+IND-CUST-1363,21,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-07-12,Lucknow
+IND-CUST-1548,27,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,2,1099.0,2198.0,UPI,2025-03-01,Ahmedabad
+IND-CUST-1316,24,Other,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,2,449.0,898.0,UPI,2025-02-14,Mumbai
+IND-CUST-1509,38,Other,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,Cash on Delivery,2025-04-21,Kochi
+IND-CUST-1538,51,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-04-14,Kolkata
+IND-CUST-1095,39,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,Net Banking,2025-03-20,Bengaluru
+IND-CUST-1195,48,Other,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,Credit Card,2026-02-02,Jaipur
+IND-CUST-1336,28,Other,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Cash on Delivery,2025-12-13,Delhi NCR
+IND-CUST-1136,31,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Debit Card,2025-09-25,Delhi NCR
+IND-CUST-1119,33,Male,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Credit Card,2025-02-14,Chennai
+IND-CUST-1342,33,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2026-01-17,Lucknow
+IND-CUST-1320,38,Female,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2025-04-13,Jaipur
+IND-CUST-1198,37,Male,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,Debit Card,2025-05-20,Kolkata
+IND-CUST-1153,20,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2025-09-21,Pune
+IND-CUST-1105,49,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-12-27,Chennai
+IND-CUST-1291,20,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Credit Card,2025-06-23,Lucknow
+IND-CUST-1554,33,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Net Banking,2025-01-26,Ahmedabad
+IND-CUST-1109,18,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-11-02,Ahmedabad
+IND-CUST-1607,29,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,Credit Card,2025-06-09,Kolkata
+IND-CUST-1341,30,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,Debit Card,2025-02-10,Chandigarh
+IND-CUST-1477,27,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,Net Banking,2025-08-28,Jaipur
+IND-CUST-1100,21,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Cash on Delivery,2025-03-15,Chandigarh
+IND-CUST-1265,26,Male,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Net Banking,2025-06-19,Chandigarh
+IND-CUST-1333,50,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-09-03,Chennai
+IND-CUST-1473,42,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2025-03-07,Chennai
+IND-CUST-1521,30,Other,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2026-02-10,Jaipur
+IND-CUST-1310,20,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,UPI,2025-05-05,Pune
+IND-CUST-1562,20,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2026-02-21,Hyderabad
+IND-CUST-1606,18,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-12-22,Bengaluru
+IND-CUST-1242,26,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Debit Card,2026-03-05,Ahmedabad
+IND-CUST-1499,21,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-08-16,Pune
+IND-CUST-1181,25,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2026-02-21,Pune
+IND-CUST-1611,29,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2025-02-01,Mumbai
+IND-CUST-1093,29,Male,Electronics,Bluetooth Portable Bass Speaker,3,1899.0,5697.0,Net Banking,2025-11-22,Chennai
+IND-CUST-1001,19,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Credit Card,2025-07-19,Lucknow
+IND-CUST-1592,30,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,UPI,2025-10-19,Bengaluru
+IND-CUST-1312,40,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,2,1699.0,3398.0,Net Banking,2025-02-15,Pune
+IND-CUST-1597,32,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2025-05-31,Chennai
+IND-CUST-1064,34,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Credit Card,2025-07-03,Mumbai
+IND-CUST-1113,23,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,Debit Card,2025-07-21,Hyderabad
+IND-CUST-1326,25,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2025-12-06,Chennai
+IND-CUST-1178,19,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Net Banking,2025-07-04,Pune
+IND-CUST-1428,40,Male,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-01-09,Bengaluru
+IND-CUST-1148,28,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,Cash on Delivery,2025-03-11,Jaipur
+IND-CUST-1087,18,Female,Electronics,Fast Charging 20000mAh Power Bank,3,1499.0,4497.0,Net Banking,2025-12-23,Chennai
+IND-CUST-1619,34,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,Credit Card,2025-10-10,Pune
+IND-CUST-1461,18,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Credit Card,2025-10-23,Ahmedabad
+IND-CUST-1511,32,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,UPI,2025-10-07,Delhi NCR
+IND-CUST-1591,35,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-02-27,Bengaluru
+IND-CUST-1595,43,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Debit Card,2025-09-27,Jaipur
+IND-CUST-1287,42,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Credit Card,2025-05-06,Mumbai
+IND-CUST-1484,53,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,4,1199.0,4796.0,UPI,2025-11-21,Ahmedabad
+IND-CUST-1553,25,Other,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,2,449.0,898.0,Net Banking,2025-10-01,Chennai
+IND-CUST-1012,25,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-06-30,Bengaluru
+IND-CUST-1302,29,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,Credit Card,2025-06-05,Chennai
+IND-CUST-1578,50,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Credit Card,2025-12-03,Pune
+IND-CUST-1299,30,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Credit Card,2025-03-06,Pune
+IND-CUST-1518,33,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Credit Card,2025-05-21,Pune
+IND-CUST-1264,26,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Net Banking,2026-01-14,Ahmedabad
+IND-CUST-1155,23,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,2,2899.0,5798.0,UPI,2025-12-25,Hyderabad
+IND-CUST-1242,26,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,UPI,2025-02-13,Ahmedabad
+IND-CUST-1149,50,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Credit Card,2025-07-31,Hyderabad
+IND-CUST-1393,30,Female,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,UPI,2025-10-23,Jaipur
+IND-CUST-1354,32,Male,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2025-03-27,Kolkata
+IND-CUST-1476,46,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Cash on Delivery,2025-09-30,Ahmedabad
+IND-CUST-1240,18,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2026-03-22,Delhi NCR
+IND-CUST-1446,48,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-09-29,Jaipur
+IND-CUST-1043,18,Male,Electronics,Noise-Canceling Over-Ear Headphones,2,7999.0,15998.0,Cash on Delivery,2025-08-10,Chandigarh
+IND-CUST-1280,33,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,2,1899.0,3798.0,UPI,2025-10-27,Mumbai
+IND-CUST-1401,22,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,Credit Card,2025-04-10,Kolkata
+IND-CUST-1533,45,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-01-05,Pune
+IND-CUST-1070,32,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Debit Card,2025-06-29,Kolkata
+IND-CUST-1225,30,Male,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,UPI,2025-02-17,Chennai
+IND-CUST-1059,56,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,4,499.0,1996.0,Credit Card,2025-12-29,Kolkata
+IND-CUST-1123,33,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Debit Card,2025-11-28,Kolkata
+IND-CUST-1580,56,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,3,499.0,1497.0,Debit Card,2025-05-10,Kochi
+IND-CUST-1302,29,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,Cash on Delivery,2025-05-22,Chennai
+IND-CUST-1438,28,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,2,349.0,698.0,UPI,2025-03-24,Kochi
+IND-CUST-1076,26,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-01-31,Ahmedabad
+IND-CUST-1265,26,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,UPI,2025-04-13,Chandigarh
+IND-CUST-1403,25,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Credit Card,2025-08-09,Delhi NCR
+IND-CUST-1224,23,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,3,1299.0,3897.0,Debit Card,2025-02-22,Chandigarh
+IND-CUST-1036,29,Female,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2025-09-12,Mumbai
+IND-CUST-1153,20,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,3,1299.0,3897.0,Credit Card,2025-05-17,Pune
+IND-CUST-1156,29,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2026-01-30,Chandigarh
+IND-CUST-1503,33,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,3,1599.0,4797.0,Debit Card,2026-02-07,Delhi NCR
+IND-CUST-1072,39,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Debit Card,2026-02-04,Chandigarh
+IND-CUST-1494,22,Other,Electronics,Noise-Canceling Over-Ear Headphones,3,7999.0,23997.0,UPI,2025-12-16,Bengaluru
+IND-CUST-1311,32,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Net Banking,2025-06-24,Jaipur
+IND-CUST-1083,25,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,UPI,2025-01-21,Hyderabad
+IND-CUST-1394,18,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,2,449.0,898.0,Net Banking,2025-11-19,Kochi
+IND-CUST-1368,20,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-01-19,Mumbai
+IND-CUST-1198,37,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,UPI,2025-10-04,Kolkata
+IND-CUST-1316,24,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,Cash on Delivery,2025-01-09,Mumbai
+IND-CUST-1038,43,Male,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,UPI,2025-03-02,Delhi NCR
+IND-CUST-1217,51,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Cash on Delivery,2026-03-22,Kochi
+IND-CUST-1550,57,Male,Electronics,4K Ultra HD Streaming Stick,3,3499.0,10497.0,UPI,2025-03-14,Lucknow
+IND-CUST-1501,29,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,3,1399.0,4197.0,Credit Card,2025-05-05,Delhi NCR
+IND-CUST-1134,45,Female,Electronics,Wireless Noise-Canceling Earbuds,3,2999.0,8997.0,Debit Card,2025-02-19,Ahmedabad
+IND-CUST-1468,33,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,Debit Card,2025-02-24,Mumbai
+IND-CUST-1117,22,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,UPI,2025-04-14,Bengaluru
+IND-CUST-1437,19,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Cash on Delivery,2025-10-22,Delhi NCR
+IND-CUST-1559,36,Male,Electronics,4K Ultra HD Streaming Stick,2,3499.0,6998.0,Credit Card,2025-06-21,Jaipur
+IND-CUST-1065,22,Female,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-07-09,Kolkata
+IND-CUST-1567,28,Male,Electronics,4K Ultra HD Streaming Stick,3,3499.0,10497.0,UPI,2025-02-21,Mumbai
+IND-CUST-1386,34,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,3,599.0,1797.0,UPI,2025-01-04,Chandigarh
+IND-CUST-1184,21,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,3,450.0,1350.0,UPI,2026-02-18,Hyderabad
+IND-CUST-1488,23,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-08-19,Kochi
+IND-CUST-1422,24,Male,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-04-03,Chennai
+IND-CUST-1512,32,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,Debit Card,2025-06-28,Hyderabad
+IND-CUST-1429,56,Other,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Cash on Delivery,2025-02-18,Hyderabad
+IND-CUST-1371,33,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Credit Card,2025-11-17,Hyderabad
+IND-CUST-1214,32,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2026-03-09,Hyderabad
+IND-CUST-1486,28,Other,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,UPI,2025-11-27,Chennai
+IND-CUST-1373,32,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Credit Card,2026-01-24,Kolkata
+IND-CUST-1465,46,Male,Electronics,Wireless Noise-Canceling Earbuds,3,2999.0,8997.0,UPI,2026-02-07,Hyderabad
+IND-CUST-1030,18,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,UPI,2025-08-16,Pune
+IND-CUST-1607,29,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Debit Card,2025-06-16,Kolkata
+IND-CUST-1236,42,Other,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,UPI,2025-07-31,Lucknow
+IND-CUST-1205,22,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Credit Card,2025-01-28,Kochi
+IND-CUST-1447,57,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-08-23,Lucknow
+IND-CUST-1199,31,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,UPI,2025-12-21,Jaipur
+IND-CUST-1583,21,Male,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Credit Card,2025-08-03,Jaipur
+IND-CUST-1176,46,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,3,499.0,1497.0,Credit Card,2026-02-09,Chandigarh
+IND-CUST-1175,29,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,3,699.0,2097.0,UPI,2026-03-15,Pune
+IND-CUST-1535,38,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,Net Banking,2025-05-23,Chandigarh
+IND-CUST-1015,38,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,3,349.0,1047.0,UPI,2025-08-11,Chennai
+IND-CUST-1594,40,Female,Electronics,Bluetooth Portable Bass Speaker,3,1899.0,5697.0,Net Banking,2025-08-02,Delhi NCR
+IND-CUST-1046,31,Other,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,Credit Card,2025-08-06,Chandigarh
+IND-CUST-1544,32,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-10-13,Pune
+IND-CUST-1013,26,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,4,699.0,2796.0,UPI,2025-06-01,Hyderabad
+IND-CUST-1245,49,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Credit Card,2025-03-24,Chennai
+IND-CUST-1471,31,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,Cash on Delivery,2025-08-26,Kolkata
+IND-CUST-1142,21,Male,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Net Banking,2025-11-17,Mumbai
+IND-CUST-1476,46,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,3,599.0,1797.0,UPI,2025-12-20,Ahmedabad
+IND-CUST-1341,30,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,UPI,2025-11-10,Chandigarh
+IND-CUST-1556,23,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,UPI,2026-03-27,Chennai
+IND-CUST-1344,38,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Net Banking,2025-07-06,Pune
+IND-CUST-1053,43,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-07-07,Mumbai
+IND-CUST-1180,25,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Debit Card,2025-04-15,Hyderabad
+IND-CUST-1142,21,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Credit Card,2026-01-13,Mumbai
+IND-CUST-1595,43,Other,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,Debit Card,2025-04-26,Jaipur
+IND-CUST-1329,25,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-01-28,Delhi NCR
+IND-CUST-1065,22,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Credit Card,2025-03-04,Kolkata
+IND-CUST-1482,20,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,2,349.0,698.0,Net Banking,2025-08-20,Delhi NCR
+IND-CUST-1377,68,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,2,349.0,698.0,Cash on Delivery,2025-02-03,Lucknow
+IND-CUST-1193,27,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2025-04-02,Jaipur
+IND-CUST-1296,25,Other,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,UPI,2025-12-23,Pune
+IND-CUST-1152,23,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Cash on Delivery,2025-01-12,Bengaluru
+IND-CUST-1301,25,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2026-01-13,Jaipur
+IND-CUST-1022,22,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Debit Card,2026-03-04,Jaipur
+IND-CUST-1533,45,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Credit Card,2026-02-07,Pune
+IND-CUST-1335,28,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,Net Banking,2025-08-16,Mumbai
+IND-CUST-1469,19,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,3,2499.0,7497.0,UPI,2026-02-09,Chandigarh
+IND-CUST-1267,32,Male,Electronics,Precision Wireless Mouse,4,999.0,3996.0,Debit Card,2025-01-25,Pune
+IND-CUST-1152,23,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,4,3499.0,13996.0,Credit Card,2025-03-24,Bengaluru
+IND-CUST-1549,32,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,2,2499.0,4998.0,Debit Card,2025-12-08,Delhi NCR
+IND-CUST-1158,30,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-03-06,Jaipur
+IND-CUST-1452,31,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Debit Card,2025-12-07,Jaipur
+IND-CUST-1325,60,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Credit Card,2025-03-25,Pune
+IND-CUST-1547,18,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Credit Card,2025-03-16,Kolkata
+IND-CUST-1470,20,Other,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Debit Card,2025-09-17,Delhi NCR
+IND-CUST-1340,59,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,UPI,2026-01-22,Kochi
+IND-CUST-1588,26,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Cash on Delivery,2025-06-23,Kochi
+IND-CUST-1116,27,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Credit Card,2025-06-07,Delhi NCR
+IND-CUST-1026,34,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2025-01-29,Kolkata
+IND-CUST-1200,42,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,Debit Card,2025-04-11,Lucknow
+IND-CUST-1024,69,Male,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,Cash on Delivery,2025-09-20,Lucknow
+IND-CUST-1404,33,Male,Electronics,Precision Wireless Mouse,2,999.0,1998.0,Credit Card,2025-01-29,Bengaluru
+IND-CUST-1370,32,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-05-26,Hyderabad
+IND-CUST-1354,32,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,3,3499.0,10497.0,UPI,2026-01-08,Kolkata
+IND-CUST-1455,33,Other,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,UPI,2026-02-17,Kolkata
+IND-CUST-1435,35,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2025-02-14,Pune
+IND-CUST-1148,28,Female,Electronics,Dual-Port 65W GaN Charger,5,1999.0,9995.0,Credit Card,2025-06-21,Jaipur
+IND-CUST-1068,53,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,UPI,2025-07-29,Kochi
+IND-CUST-1280,33,Other,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,Debit Card,2025-03-12,Mumbai
+IND-CUST-1205,22,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Credit Card,2026-02-26,Kochi
+IND-CUST-1310,20,Female,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,Debit Card,2025-04-25,Pune
+IND-CUST-1028,33,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Cash on Delivery,2026-03-04,Hyderabad
+IND-CUST-1484,53,Male,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Credit Card,2025-12-19,Ahmedabad
+IND-CUST-1251,28,Male,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Cash on Delivery,2025-11-03,Lucknow
+IND-CUST-1371,33,Male,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-12-18,Hyderabad
+IND-CUST-1488,23,Other,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Debit Card,2025-01-09,Kochi
+IND-CUST-1266,30,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Credit Card,2025-12-21,Lucknow
+IND-CUST-1139,18,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-07-02,Pune
+IND-CUST-1050,22,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Debit Card,2025-04-04,Chennai
+IND-CUST-1097,27,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Net Banking,2026-02-28,Pune
+IND-CUST-1309,38,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Credit Card,2026-02-26,Ahmedabad
+IND-CUST-1148,28,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,Debit Card,2025-07-30,Jaipur
+IND-CUST-1349,29,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,UPI,2025-04-24,Ahmedabad
+IND-CUST-1193,27,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Net Banking,2025-09-27,Jaipur
+IND-CUST-1545,49,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,2,349.0,698.0,UPI,2025-08-24,Chandigarh
+IND-CUST-1079,44,Male,Electronics,Bluetooth Portable Bass Speaker,3,1899.0,5697.0,Credit Card,2025-06-09,Ahmedabad
+IND-CUST-1372,47,Other,Electronics,Dual-Port 65W GaN Charger,3,1999.0,5997.0,Credit Card,2026-01-26,Kochi
+IND-CUST-1351,30,Male,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Debit Card,2025-04-24,Lucknow
+IND-CUST-1132,34,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,UPI,2025-04-18,Bengaluru
+IND-CUST-1134,45,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,Debit Card,2025-02-09,Ahmedabad
+IND-CUST-1020,31,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2026-02-11,Bengaluru
+IND-CUST-1526,20,Other,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2025-02-03,Bengaluru
+IND-CUST-1309,38,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,Cash on Delivery,2025-04-16,Ahmedabad
+IND-CUST-1602,33,Male,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,UPI,2025-03-16,Bengaluru
+IND-CUST-1285,42,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Net Banking,2026-02-04,Delhi NCR
+IND-CUST-1248,50,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Credit Card,2025-01-08,Bengaluru
+IND-CUST-1542,23,Other,Electronics,4K Ultra HD Streaming Stick,4,3499.0,13996.0,UPI,2026-01-22,Mumbai
+IND-CUST-1551,22,Male,Electronics,Smart Fitness Watch V2,3,4499.0,13497.0,Cash on Delivery,2026-03-12,Kochi
+IND-CUST-1487,38,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Cash on Delivery,2025-04-03,Bengaluru
+IND-CUST-1364,20,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-02-27,Chandigarh
+IND-CUST-1322,40,Other,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2025-07-04,Lucknow
+IND-CUST-1296,25,Other,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Credit Card,2025-07-17,Pune
+IND-CUST-1291,20,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,2,1899.0,3798.0,Net Banking,2025-04-26,Lucknow
+IND-CUST-1568,49,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2026-03-07,Chennai
+IND-CUST-1488,23,Other,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Cash on Delivery,2025-09-09,Kochi
+IND-CUST-1108,40,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-12-22,Jaipur
+IND-CUST-1605,32,Other,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Cash on Delivery,2025-06-23,Pune
+IND-CUST-1206,24,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Net Banking,2026-01-07,Hyderabad
+IND-CUST-1512,32,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,2,1899.0,3798.0,Debit Card,2025-07-24,Hyderabad
+IND-CUST-1365,34,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,5,1599.0,7995.0,Credit Card,2025-03-17,Kolkata
+IND-CUST-1466,25,Other,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-03-10,Ahmedabad
+IND-CUST-1031,34,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Credit Card,2025-01-14,Jaipur
+IND-CUST-1184,21,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Credit Card,2025-02-19,Hyderabad
+IND-CUST-1079,44,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Debit Card,2025-04-14,Ahmedabad
+IND-CUST-1301,25,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2026-02-19,Jaipur
+IND-CUST-1554,33,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,UPI,2025-03-02,Ahmedabad
+IND-CUST-1393,30,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-04-01,Jaipur
+IND-CUST-1571,24,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Debit Card,2025-09-09,Chennai
+IND-CUST-1442,32,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,UPI,2025-12-12,Chandigarh
+IND-CUST-1503,33,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Credit Card,2025-10-15,Delhi NCR
+IND-CUST-1161,33,Other,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Credit Card,2025-07-13,Bengaluru
+IND-CUST-1362,23,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,UPI,2025-01-24,Chandigarh
+IND-CUST-1132,34,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2026-01-27,Bengaluru
+IND-CUST-1350,33,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-06-29,Bengaluru
+IND-CUST-1058,29,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-02-13,Kolkata
+IND-CUST-1068,53,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-06-16,Kochi
+IND-CUST-1039,59,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Net Banking,2025-05-17,Chennai
+IND-CUST-1021,34,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-10-20,Chandigarh
+IND-CUST-1400,32,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,UPI,2025-12-12,Kochi
+IND-CUST-1211,27,Other,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2025-08-12,Chennai
+IND-CUST-1207,24,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,4,3299.0,13196.0,UPI,2026-03-12,Lucknow
+IND-CUST-1549,32,Male,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Cash on Delivery,2025-07-25,Delhi NCR
+IND-CUST-1232,32,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,Credit Card,2025-10-31,Chandigarh
+IND-CUST-1345,50,Other,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-02-09,Hyderabad
+IND-CUST-1310,20,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Credit Card,2025-04-13,Pune
+IND-CUST-1425,20,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,Credit Card,2026-03-28,Mumbai
+IND-CUST-1020,31,Male,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,3,699.0,2097.0,Credit Card,2025-04-20,Bengaluru
+IND-CUST-1479,46,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,3,1599.0,4797.0,Debit Card,2025-01-31,Bengaluru
+IND-CUST-1535,38,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-12-17,Chandigarh
+IND-CUST-1308,28,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Net Banking,2025-02-02,Bengaluru
+IND-CUST-1209,27,Male,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2025-05-12,Kochi
+IND-CUST-1616,35,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,UPI,2025-05-06,Jaipur
+IND-CUST-1318,70,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Net Banking,2025-04-14,Lucknow
+IND-CUST-1164,33,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-12-04,Kochi
+IND-CUST-1564,21,Other,Electronics,Wireless Noise-Canceling Earbuds,4,2999.0,11996.0,Credit Card,2025-01-11,Mumbai
+IND-CUST-1057,32,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-02-02,Pune
+IND-CUST-1417,19,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,UPI,2026-03-06,Hyderabad
+IND-CUST-1144,34,Male,Electronics,Noise-Canceling Over-Ear Headphones,3,7999.0,23997.0,Credit Card,2026-03-01,Ahmedabad
+IND-CUST-1595,43,Other,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,Net Banking,2025-05-02,Jaipur
+IND-CUST-1615,26,Other,Electronics,Precision Wireless Mouse,1,999.0,999.0,Credit Card,2025-07-19,Jaipur
+IND-CUST-1242,26,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,UPI,2025-05-21,Ahmedabad
+IND-CUST-1451,26,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-02-27,Jaipur
+IND-CUST-1325,60,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,Cash on Delivery,2026-03-27,Pune
+IND-CUST-1149,50,Other,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,UPI,2025-11-07,Hyderabad
+IND-CUST-1036,29,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,UPI,2026-02-08,Mumbai
+IND-CUST-1246,33,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Cash on Delivery,2025-07-05,Lucknow
+IND-CUST-1125,21,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,3,4999.0,14997.0,UPI,2025-07-21,Jaipur
+IND-CUST-1262,65,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Net Banking,2025-03-24,Chandigarh
+IND-CUST-1450,23,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,UPI,2025-01-18,Hyderabad
+IND-CUST-1281,49,Other,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2026-03-07,Chandigarh
+IND-CUST-1341,30,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,Debit Card,2025-09-17,Chandigarh
+IND-CUST-1068,53,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2025-01-27,Kochi
+IND-CUST-1189,43,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,UPI,2025-04-13,Kochi
+IND-CUST-1313,45,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2026-01-01,Lucknow
+IND-CUST-1134,45,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,Cash on Delivery,2025-08-20,Ahmedabad
+IND-CUST-1490,38,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,Debit Card,2026-02-28,Chandigarh
+IND-CUST-1336,28,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-07-21,Delhi NCR
+IND-CUST-1387,28,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,Cash on Delivery,2025-10-13,Hyderabad
+IND-CUST-1235,20,Other,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Debit Card,2025-03-28,Mumbai
+IND-CUST-1051,40,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,2,1599.0,3198.0,UPI,2025-07-08,Jaipur
+IND-CUST-1175,29,Female,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Credit Card,2026-01-31,Pune
+IND-CUST-1465,46,Male,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Debit Card,2025-04-08,Hyderabad
+IND-CUST-1273,26,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-04-16,Bengaluru
+IND-CUST-1615,26,Other,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2025-04-03,Jaipur
+IND-CUST-1419,35,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,UPI,2025-11-13,Kolkata
+IND-CUST-1462,57,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2025-02-13,Chandigarh
+IND-CUST-1011,27,Female,Clothing & Fashion,Waterproof Windcheater Jacket,4,2299.0,9196.0,UPI,2025-04-19,Delhi NCR
+IND-CUST-1393,30,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,2,349.0,698.0,UPI,2025-10-13,Jaipur
+IND-CUST-1061,30,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,UPI,2025-11-07,Ahmedabad
+IND-CUST-1613,18,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Credit Card,2025-07-15,Kolkata
+IND-CUST-1310,20,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Net Banking,2025-01-22,Pune
+IND-CUST-1595,43,Other,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Cash on Delivery,2026-03-26,Jaipur
+IND-CUST-1480,19,Male,Electronics,Precision Wireless Mouse,2,999.0,1998.0,UPI,2025-05-14,Kolkata
+IND-CUST-1120,27,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Cash on Delivery,2025-05-24,Kochi
+IND-CUST-1370,32,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,3,799.0,2397.0,UPI,2026-03-01,Hyderabad
+IND-CUST-1271,26,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,3,1399.0,4197.0,UPI,2025-09-09,Chennai
+IND-CUST-1155,23,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,UPI,2025-04-07,Hyderabad
+IND-CUST-1153,20,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-12-28,Pune
+IND-CUST-1479,46,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-12-30,Bengaluru
+IND-CUST-1575,49,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Debit Card,2025-03-17,Delhi NCR
+IND-CUST-1127,39,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,3,1499.0,4497.0,UPI,2025-03-28,Ahmedabad
+IND-CUST-1521,30,Other,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,3,1099.0,3297.0,Credit Card,2025-10-26,Jaipur
+IND-CUST-1005,24,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Cash on Delivery,2025-05-07,Mumbai
+IND-CUST-1511,32,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,Debit Card,2025-12-15,Delhi NCR
+IND-CUST-1125,21,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,UPI,2025-02-11,Jaipur
+IND-CUST-1472,25,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,Credit Card,2025-05-18,Kochi
+IND-CUST-1609,32,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,4,2899.0,11596.0,Credit Card,2025-08-20,Pune
+IND-CUST-1333,50,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,Net Banking,2026-02-15,Chennai
+IND-CUST-1290,28,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,Credit Card,2025-11-05,Jaipur
+IND-CUST-1391,37,Other,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Cash on Delivery,2026-03-20,Pune
+IND-CUST-1409,40,Female,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Debit Card,2025-05-26,Chennai
+IND-CUST-1158,30,Female,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,Debit Card,2025-06-08,Jaipur
+IND-CUST-1618,39,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Credit Card,2025-09-08,Delhi NCR
+IND-CUST-1457,33,Other,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Credit Card,2025-02-16,Mumbai
+IND-CUST-1433,30,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Credit Card,2025-02-17,Delhi NCR
+IND-CUST-1042,43,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,Credit Card,2026-01-01,Delhi NCR
+IND-CUST-1159,24,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,Credit Card,2025-05-29,Kochi
+IND-CUST-1480,19,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Cash on Delivery,2025-12-17,Kolkata
+IND-CUST-1308,28,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Credit Card,2025-10-10,Bengaluru
+IND-CUST-1079,44,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,UPI,2025-02-18,Ahmedabad
+IND-CUST-1476,46,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,UPI,2025-10-27,Ahmedabad
+IND-CUST-1084,22,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Credit Card,2025-04-02,Hyderabad
+IND-CUST-1187,36,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,Net Banking,2025-06-02,Kochi
+IND-CUST-1322,40,Other,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,UPI,2026-02-18,Lucknow
+IND-CUST-1272,27,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-11-06,Chandigarh
+IND-CUST-1266,30,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-07-22,Lucknow
+IND-CUST-1120,27,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-12-03,Kochi
+IND-CUST-1617,30,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,2,449.0,898.0,Cash on Delivery,2025-07-04,Hyderabad
+IND-CUST-1405,31,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,UPI,2025-02-27,Kolkata
+IND-CUST-1017,48,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,3,499.0,1497.0,UPI,2025-11-29,Chandigarh
+IND-CUST-1149,50,Other,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,3,1399.0,4197.0,Net Banking,2025-10-03,Hyderabad
+IND-CUST-1196,32,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-03-01,Kolkata
+IND-CUST-1171,66,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,Cash on Delivery,2025-08-30,Lucknow
+IND-CUST-1021,34,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,UPI,2026-03-01,Chandigarh
+IND-CUST-1402,20,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Net Banking,2025-08-10,Chennai
+IND-CUST-1426,28,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,Debit Card,2025-05-29,Jaipur
+IND-CUST-1038,43,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Debit Card,2025-12-14,Delhi NCR
+IND-CUST-1500,36,Other,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-06-11,Chennai
+IND-CUST-1567,28,Male,Electronics,Fast Charging 20000mAh Power Bank,3,1499.0,4497.0,UPI,2025-11-15,Mumbai
+IND-CUST-1356,49,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-04-09,Ahmedabad
+IND-CUST-1481,34,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Credit Card,2025-12-17,Mumbai
+IND-CUST-1348,21,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-12-31,Ahmedabad
+IND-CUST-1400,32,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,2,799.0,1598.0,Debit Card,2026-03-09,Kochi
+IND-CUST-1166,47,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,2,2899.0,5798.0,UPI,2025-09-05,Hyderabad
+IND-CUST-1133,24,Female,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-08-01,Chandigarh
+IND-CUST-1506,23,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Cash on Delivery,2025-07-03,Delhi NCR
+IND-CUST-1268,22,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Net Banking,2025-09-15,Delhi NCR
+IND-CUST-1033,27,Male,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,Credit Card,2025-03-03,Ahmedabad
+IND-CUST-1576,30,Female,Electronics,Ergonomic Mechanical Keyboard,5,3999.0,19995.0,Debit Card,2026-01-29,Kochi
+IND-CUST-1048,27,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-12-20,Pune
+IND-CUST-1528,41,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,Cash on Delivery,2025-08-13,Lucknow
+IND-CUST-1469,19,Female,Books & Stationery,Data Science & Machine Learning with Python,4,899.0,3596.0,Debit Card,2025-11-09,Chandigarh
+IND-CUST-1105,49,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-03-02,Chennai
+IND-CUST-1211,27,Other,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,Debit Card,2026-01-26,Chennai
+IND-CUST-1519,28,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Credit Card,2025-06-21,Bengaluru
+IND-CUST-1142,21,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,UPI,2026-01-29,Mumbai
+IND-CUST-1007,54,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Credit Card,2025-02-13,Mumbai
+IND-CUST-1273,26,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Credit Card,2025-03-19,Bengaluru
+IND-CUST-1543,48,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2025-07-29,Kolkata
+IND-CUST-1470,20,Other,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,UPI,2025-01-16,Delhi NCR
+IND-CUST-1454,39,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Credit Card,2025-02-05,Chandigarh
+IND-CUST-1087,18,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,5,1599.0,7995.0,UPI,2025-02-01,Chennai
+IND-CUST-1403,25,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,3,349.0,1047.0,UPI,2025-10-22,Delhi NCR
+IND-CUST-1060,47,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,4,450.0,1800.0,UPI,2026-03-30,Chandigarh
+IND-CUST-1567,28,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,Net Banking,2025-01-05,Mumbai
+IND-CUST-1287,42,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,3,1099.0,3297.0,Debit Card,2025-08-17,Mumbai
+IND-CUST-1211,27,Other,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,2,1099.0,2198.0,Credit Card,2025-12-24,Chennai
+IND-CUST-1354,32,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,UPI,2025-06-04,Kolkata
+IND-CUST-1087,18,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,Debit Card,2026-03-27,Chennai
+IND-CUST-1130,36,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-10-10,Lucknow
+IND-CUST-1320,38,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,UPI,2026-02-12,Jaipur
+IND-CUST-1553,25,Other,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,UPI,2025-08-05,Chennai
+IND-CUST-1518,33,Female,Electronics,Wireless Noise-Canceling Earbuds,3,2999.0,8997.0,UPI,2025-09-17,Pune
+IND-CUST-1363,21,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2025-01-03,Lucknow
+IND-CUST-1465,46,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,Cash on Delivery,2025-10-17,Hyderabad
+IND-CUST-1547,18,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,UPI,2026-02-06,Kolkata
+IND-CUST-1587,40,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Debit Card,2025-02-23,Kochi
+IND-CUST-1336,28,Other,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,UPI,2025-02-20,Delhi NCR
+IND-CUST-1151,32,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2026-03-31,Delhi NCR
+IND-CUST-1134,45,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Debit Card,2025-07-26,Ahmedabad
+IND-CUST-1603,30,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,UPI,2025-09-13,Ahmedabad
+IND-CUST-1434,23,Other,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,UPI,2025-03-25,Ahmedabad
+IND-CUST-1148,28,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,UPI,2025-12-27,Jaipur
+IND-CUST-1526,20,Other,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,2,899.0,1798.0,Credit Card,2025-01-17,Bengaluru
+IND-CUST-1161,33,Other,Books & Stationery,Classic Fountain Pen with Ink Cartridges,3,799.0,2397.0,UPI,2026-03-13,Bengaluru
+IND-CUST-1419,35,Other,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-03-20,Kolkata
+IND-CUST-1121,69,Male,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Credit Card,2026-02-10,Hyderabad
+IND-CUST-1147,47,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Net Banking,2025-05-26,Chandigarh
+IND-CUST-1221,21,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Credit Card,2025-02-04,Chennai
+IND-CUST-1046,31,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Net Banking,2026-02-05,Chandigarh
+IND-CUST-1387,28,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,2,2499.0,4998.0,Credit Card,2025-08-24,Hyderabad
+IND-CUST-1461,18,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,3,499.0,1497.0,UPI,2026-02-14,Ahmedabad
+IND-CUST-1420,31,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-12-10,Mumbai
+IND-CUST-1454,39,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2025-01-13,Chandigarh
+IND-CUST-1586,50,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,Credit Card,2025-03-05,Chennai
+IND-CUST-1573,60,Male,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2025-10-19,Pune
+IND-CUST-1535,38,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-12-04,Chandigarh
+IND-CUST-1545,49,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2026-03-01,Chandigarh
+IND-CUST-1594,40,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2026-03-18,Delhi NCR
+IND-CUST-1024,69,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Net Banking,2025-06-12,Lucknow
+IND-CUST-1392,19,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,4,699.0,2796.0,Credit Card,2025-05-27,Kochi
+IND-CUST-1148,28,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Cash on Delivery,2025-12-14,Jaipur
+IND-CUST-1174,33,Other,Electronics,Precision Wireless Mouse,1,999.0,999.0,Debit Card,2025-06-02,Pune
+IND-CUST-1400,32,Male,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-07-12,Kochi
+IND-CUST-1124,35,Other,Electronics,4K Ultra HD Streaming Stick,2,3499.0,6998.0,Credit Card,2025-09-10,Mumbai
+IND-CUST-1521,30,Other,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,4,699.0,2796.0,UPI,2025-06-12,Jaipur
+IND-CUST-1476,46,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,UPI,2025-04-30,Ahmedabad
+IND-CUST-1020,31,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Credit Card,2026-02-07,Bengaluru
+IND-CUST-1129,21,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Net Banking,2025-09-14,Chennai
+IND-CUST-1209,27,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Cash on Delivery,2026-02-05,Kochi
+IND-CUST-1252,20,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,4,1399.0,5596.0,Credit Card,2025-01-22,Bengaluru
+IND-CUST-1002,34,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Cash on Delivery,2025-01-01,Mumbai
+IND-CUST-1062,29,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-12-15,Hyderabad
+IND-CUST-1390,32,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,2,499.0,998.0,Credit Card,2025-01-24,Chandigarh
+IND-CUST-1166,47,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-12-24,Hyderabad
+IND-CUST-1126,28,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,UPI,2025-08-10,Ahmedabad
+IND-CUST-1216,35,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Debit Card,2025-06-25,Kolkata
+IND-CUST-1268,22,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,Credit Card,2025-06-14,Delhi NCR
+IND-CUST-1350,33,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,Debit Card,2025-11-27,Bengaluru
+IND-CUST-1003,21,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,3,1299.0,3897.0,Debit Card,2025-07-31,Lucknow
+IND-CUST-1570,28,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,UPI,2025-02-11,Bengaluru
+IND-CUST-1080,67,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,UPI,2025-03-05,Pune
+IND-CUST-1362,23,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,UPI,2025-04-01,Chandigarh
+IND-CUST-1009,60,Female,Electronics,Precision Wireless Mouse,3,999.0,2997.0,UPI,2025-04-24,Mumbai
+IND-CUST-1021,34,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,3,349.0,1047.0,UPI,2025-02-16,Chandigarh
+IND-CUST-1311,32,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Credit Card,2025-07-05,Jaipur
+IND-CUST-1038,43,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Cash on Delivery,2025-11-23,Delhi NCR
+IND-CUST-1406,42,Other,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Credit Card,2025-10-10,Jaipur
+IND-CUST-1199,31,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,2,699.0,1398.0,Credit Card,2025-03-31,Jaipur
+IND-CUST-1067,21,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-10-19,Chandigarh
+IND-CUST-1234,35,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,UPI,2025-12-14,Chandigarh
+IND-CUST-1024,69,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,Debit Card,2026-03-29,Lucknow
+IND-CUST-1465,46,Male,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,Cash on Delivery,2025-01-27,Hyderabad
+IND-CUST-1331,26,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Debit Card,2025-08-27,Jaipur
+IND-CUST-1508,34,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,3,1799.0,5397.0,UPI,2025-05-23,Chennai
+IND-CUST-1431,28,Other,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,UPI,2025-02-11,Kochi
+IND-CUST-1586,50,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Debit Card,2025-02-08,Chennai
+IND-CUST-1256,45,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,Credit Card,2025-02-19,Kolkata
+IND-CUST-1029,31,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,Credit Card,2025-06-21,Hyderabad
+IND-CUST-1257,35,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-01-28,Chandigarh
+IND-CUST-1342,33,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,4,4999.0,19996.0,Debit Card,2025-11-14,Lucknow
+IND-CUST-1450,23,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2025-02-01,Hyderabad
+IND-CUST-1035,21,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,UPI,2026-02-15,Chennai
+IND-CUST-1453,48,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Debit Card,2025-10-14,Chandigarh
+IND-CUST-1054,30,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Credit Card,2025-07-30,Chandigarh
+IND-CUST-1239,30,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,Credit Card,2025-08-26,Lucknow
+IND-CUST-1439,32,Other,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Credit Card,2025-12-12,Chandigarh
+IND-CUST-1027,48,Male,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,UPI,2025-01-07,Chandigarh
+IND-CUST-1610,21,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,UPI,2025-10-21,Lucknow
+IND-CUST-1130,36,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Credit Card,2025-11-14,Lucknow
+IND-CUST-1456,33,Other,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-06-09,Chennai
+IND-CUST-1599,33,Other,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Net Banking,2026-02-02,Kolkata
+IND-CUST-1150,24,Other,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2025-01-05,Ahmedabad
+IND-CUST-1531,21,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2026-02-24,Hyderabad
+IND-CUST-1573,60,Male,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,Cash on Delivery,2025-11-24,Pune
+IND-CUST-1207,24,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,Credit Card,2025-12-21,Lucknow
+IND-CUST-1479,46,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,3,2899.0,8697.0,Credit Card,2025-06-21,Bengaluru
+IND-CUST-1307,28,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Net Banking,2025-01-22,Jaipur
+IND-CUST-1508,34,Male,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Debit Card,2025-08-27,Chennai
+IND-CUST-1219,37,Other,Electronics,Precision Wireless Mouse,2,999.0,1998.0,UPI,2025-07-24,Pune
+IND-CUST-1189,43,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-01-16,Kochi
+IND-CUST-1569,33,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Credit Card,2026-01-27,Chennai
+IND-CUST-1369,37,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-04-23,Bengaluru
+IND-CUST-1269,31,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,3,449.0,1347.0,UPI,2025-04-11,Chennai
+IND-CUST-1023,18,Female,Electronics,Ergonomic Mechanical Keyboard,3,3999.0,11997.0,UPI,2025-12-13,Chennai
+IND-CUST-1141,22,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-08-22,Kochi
+IND-CUST-1246,33,Male,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,Cash on Delivery,2026-02-14,Lucknow
+IND-CUST-1445,33,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,Net Banking,2025-03-08,Kochi
+IND-CUST-1195,48,Other,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,UPI,2025-08-08,Jaipur
+IND-CUST-1251,28,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,Net Banking,2025-05-31,Lucknow
+IND-CUST-1153,20,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,UPI,2025-03-06,Pune
+IND-CUST-1521,30,Other,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-08-29,Jaipur
+IND-CUST-1067,21,Female,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,Credit Card,2025-09-18,Chandigarh
+IND-CUST-1384,45,Other,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Debit Card,2025-09-27,Ahmedabad
+IND-CUST-1495,67,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Credit Card,2025-11-23,Mumbai
+IND-CUST-1598,43,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2026-03-18,Kochi
+IND-CUST-1241,49,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-03-22,Lucknow
+IND-CUST-1384,45,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-08-16,Ahmedabad
+IND-CUST-1532,47,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Credit Card,2025-08-07,Bengaluru
+IND-CUST-1462,57,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Credit Card,2025-05-20,Chandigarh
+IND-CUST-1392,19,Other,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Credit Card,2025-07-03,Kochi
+IND-CUST-1085,24,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,Cash on Delivery,2025-02-20,Pune
+IND-CUST-1122,34,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-12-12,Hyderabad
+IND-CUST-1338,24,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Credit Card,2025-03-12,Mumbai
+IND-CUST-1557,21,Other,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,2,899.0,1798.0,UPI,2025-06-27,Chandigarh
+IND-CUST-1414,35,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,UPI,2025-12-01,Kolkata
+IND-CUST-1525,30,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,3,499.0,1497.0,UPI,2026-01-06,Hyderabad
+IND-CUST-1215,27,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,Credit Card,2026-02-10,Mumbai
+IND-CUST-1088,44,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Cash on Delivery,2025-08-02,Ahmedabad
+IND-CUST-1215,27,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Credit Card,2025-03-07,Mumbai
+IND-CUST-1313,45,Other,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Credit Card,2025-07-01,Lucknow
+IND-CUST-1348,21,Female,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,UPI,2026-02-03,Ahmedabad
+IND-CUST-1551,22,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-03-13,Kochi
+IND-CUST-1158,30,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Debit Card,2025-11-08,Jaipur
+IND-CUST-1588,26,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2025-10-01,Kochi
+IND-CUST-1396,41,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Cash on Delivery,2025-11-24,Lucknow
+IND-CUST-1312,40,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,UPI,2026-02-28,Pune
+IND-CUST-1618,39,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Net Banking,2025-07-17,Delhi NCR
+IND-CUST-1291,20,Female,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2025-01-30,Lucknow
+IND-CUST-1378,30,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Net Banking,2025-07-20,Kochi
+IND-CUST-1161,33,Other,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Credit Card,2025-02-05,Bengaluru
+IND-CUST-1399,30,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,UPI,2025-08-10,Jaipur
+IND-CUST-1487,38,Male,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,Credit Card,2025-12-17,Bengaluru
+IND-CUST-1470,20,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,5,1799.0,8995.0,UPI,2026-02-27,Delhi NCR
+IND-CUST-1409,40,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Net Banking,2026-03-27,Chennai
+IND-CUST-1503,33,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,UPI,2026-03-28,Delhi NCR
+IND-CUST-1468,33,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Debit Card,2026-03-12,Mumbai
+IND-CUST-1180,25,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,3,2499.0,7497.0,Debit Card,2025-08-23,Hyderabad
+IND-CUST-1394,18,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,UPI,2025-12-24,Kochi
+IND-CUST-1045,32,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Credit Card,2025-05-30,Chennai
+IND-CUST-1069,27,Other,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,3,349.0,1047.0,Net Banking,2025-07-30,Kolkata
+IND-CUST-1567,28,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2026-01-28,Mumbai
+IND-CUST-1334,65,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Credit Card,2025-08-25,Jaipur
+IND-CUST-1028,33,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Debit Card,2026-03-15,Hyderabad
+IND-CUST-1200,42,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-03-11,Lucknow
+IND-CUST-1335,28,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2025-10-08,Mumbai
+IND-CUST-1249,26,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Debit Card,2026-03-07,Mumbai
+IND-CUST-1166,47,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,UPI,2025-03-05,Hyderabad
+IND-CUST-1548,27,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Debit Card,2025-12-13,Ahmedabad
+IND-CUST-1280,33,Other,Electronics,Precision Wireless Mouse,1,999.0,999.0,Debit Card,2025-12-12,Mumbai
+IND-CUST-1546,43,Male,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Debit Card,2025-11-25,Chennai
+IND-CUST-1106,29,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Credit Card,2025-01-25,Kolkata
+IND-CUST-1387,28,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-02-16,Hyderabad
+IND-CUST-1017,48,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-12-09,Chandigarh
+IND-CUST-1065,22,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Net Banking,2025-03-27,Kolkata
+IND-CUST-1172,23,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2025-10-15,Chandigarh
+IND-CUST-1195,48,Other,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-04-29,Jaipur
+IND-CUST-1219,37,Other,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-06-11,Pune
+IND-CUST-1013,26,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Credit Card,2025-05-23,Hyderabad
+IND-CUST-1378,30,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Debit Card,2025-09-13,Kochi
+IND-CUST-1105,49,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Cash on Delivery,2025-11-04,Chennai
+IND-CUST-1333,50,Male,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,Cash on Delivery,2025-12-22,Chennai
+IND-CUST-1137,32,Male,Clothing & Fashion,Waterproof Windcheater Jacket,4,2299.0,9196.0,Credit Card,2025-02-04,Jaipur
+IND-CUST-1344,38,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Credit Card,2025-04-30,Pune
+IND-CUST-1516,50,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Credit Card,2025-03-05,Pune
+IND-CUST-1317,26,Male,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,Credit Card,2025-01-31,Lucknow
+IND-CUST-1141,22,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-11-25,Kochi
+IND-CUST-1039,59,Male,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,UPI,2025-05-23,Chennai
+IND-CUST-1326,25,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Debit Card,2025-08-01,Chennai
+IND-CUST-1296,25,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,3,499.0,1497.0,UPI,2025-05-05,Pune
+IND-CUST-1211,27,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,5,1199.0,5995.0,Debit Card,2025-12-23,Chennai
+IND-CUST-1228,33,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2025-11-19,Kochi
+IND-CUST-1007,54,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-11-21,Mumbai
+IND-CUST-1145,33,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Credit Card,2026-03-02,Jaipur
+IND-CUST-1210,40,Male,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2025-03-26,Pune
+IND-CUST-1203,27,Male,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-10-23,Jaipur
+IND-CUST-1460,49,Other,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Debit Card,2025-02-10,Bengaluru
+IND-CUST-1369,37,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-11-09,Bengaluru
+IND-CUST-1444,18,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2026-03-14,Chennai
+IND-CUST-1086,36,Male,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,2,449.0,898.0,UPI,2026-01-08,Kochi
+IND-CUST-1180,25,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-10-15,Hyderabad
+IND-CUST-1493,29,Other,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-04-08,Pune
+IND-CUST-1005,24,Female,Electronics,Noise-Canceling Over-Ear Headphones,2,7999.0,15998.0,UPI,2025-07-27,Mumbai
+IND-CUST-1426,28,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,UPI,2025-10-29,Jaipur
+IND-CUST-1073,33,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,5,1799.0,8995.0,UPI,2025-10-17,Ahmedabad
+IND-CUST-1167,29,Other,Electronics,Fast Charging 20000mAh Power Bank,4,1499.0,5996.0,Debit Card,2026-01-20,Lucknow
+IND-CUST-1357,24,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,UPI,2025-01-30,Delhi NCR
+IND-CUST-1395,32,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,UPI,2026-02-21,Hyderabad
+IND-CUST-1371,33,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Credit Card,2025-03-17,Hyderabad
+IND-CUST-1268,22,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-10-24,Delhi NCR
+IND-CUST-1166,47,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Net Banking,2025-07-23,Hyderabad
+IND-CUST-1601,24,Other,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,UPI,2025-08-05,Delhi NCR
+IND-CUST-1170,48,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2025-09-30,Jaipur
+IND-CUST-1392,19,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Net Banking,2026-01-08,Kochi
+IND-CUST-1092,24,Female,Electronics,Precision Wireless Mouse,2,999.0,1998.0,UPI,2025-04-18,Kolkata
+IND-CUST-1408,22,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,5,599.0,2995.0,Debit Card,2025-01-01,Kolkata
+IND-CUST-1100,21,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Credit Card,2026-01-11,Chandigarh
+IND-CUST-1442,32,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-09-07,Chandigarh
+IND-CUST-1187,36,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Debit Card,2025-04-06,Kochi
+IND-CUST-1206,24,Female,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2026-03-23,Hyderabad
+IND-CUST-1419,35,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,3,699.0,2097.0,UPI,2025-05-31,Kolkata
+IND-CUST-1088,44,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-05-01,Ahmedabad
+IND-CUST-1490,38,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,UPI,2026-01-20,Chandigarh
+IND-CUST-1008,35,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Credit Card,2025-01-04,Mumbai
+IND-CUST-1385,26,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Credit Card,2026-01-23,Jaipur
+IND-CUST-1346,35,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Net Banking,2025-06-11,Lucknow
+IND-CUST-1246,33,Male,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-07-02,Lucknow
+IND-CUST-1339,61,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Debit Card,2026-01-07,Chennai
+IND-CUST-1143,27,Female,Electronics,Smart Fitness Watch V2,3,4499.0,13497.0,UPI,2025-12-25,Ahmedabad
+IND-CUST-1255,32,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Credit Card,2025-01-02,Ahmedabad
+IND-CUST-1330,43,Female,Electronics,Precision Wireless Mouse,3,999.0,2997.0,Cash on Delivery,2026-01-12,Pune
+IND-CUST-1334,65,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,2,499.0,998.0,UPI,2025-11-10,Jaipur
+IND-CUST-1084,22,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,5,3499.0,17495.0,Net Banking,2025-02-21,Hyderabad
+IND-CUST-1395,32,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,Net Banking,2026-03-25,Hyderabad
+IND-CUST-1586,50,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2026-02-12,Chennai
+IND-CUST-1090,49,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-03-01,Jaipur
+IND-CUST-1494,22,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-12-04,Bengaluru
+IND-CUST-1092,24,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Cash on Delivery,2025-07-16,Kolkata
+IND-CUST-1288,30,Other,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,Cash on Delivery,2025-12-10,Hyderabad
+IND-CUST-1127,39,Other,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Credit Card,2026-02-12,Ahmedabad
+IND-CUST-1341,30,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,2,1099.0,2198.0,Credit Card,2025-11-26,Chandigarh
+IND-CUST-1352,35,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,2,1599.0,3198.0,Debit Card,2026-03-15,Mumbai
+IND-CUST-1448,30,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-02-27,Mumbai
+IND-CUST-1092,24,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,2,1499.0,2998.0,UPI,2025-07-08,Kolkata
+IND-CUST-1131,33,Other,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2025-02-01,Kolkata
+IND-CUST-1605,32,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,UPI,2026-01-30,Pune
+IND-CUST-1374,34,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Credit Card,2025-04-24,Jaipur
+IND-CUST-1110,33,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Debit Card,2025-06-01,Mumbai
+IND-CUST-1225,30,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2026-01-18,Chennai
+IND-CUST-1036,29,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Debit Card,2025-05-21,Mumbai
+IND-CUST-1588,26,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Debit Card,2025-07-12,Kochi
+IND-CUST-1061,30,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Debit Card,2026-03-11,Ahmedabad
+IND-CUST-1231,25,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,3,599.0,1797.0,Debit Card,2026-03-15,Chennai
+IND-CUST-1500,36,Other,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,5,449.0,2245.0,Credit Card,2026-03-11,Chennai
+IND-CUST-1164,33,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,UPI,2025-08-31,Kochi
+IND-CUST-1357,24,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Debit Card,2025-05-25,Delhi NCR
+IND-CUST-1200,42,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2026-01-21,Lucknow
+IND-CUST-1595,43,Other,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,3,899.0,2697.0,Debit Card,2025-08-23,Jaipur
+IND-CUST-1168,27,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,UPI,2025-03-16,Bengaluru
+IND-CUST-1215,27,Male,Electronics,4K Ultra HD Streaming Stick,2,3499.0,6998.0,UPI,2026-01-07,Mumbai
+IND-CUST-1590,23,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Cash on Delivery,2025-12-14,Hyderabad
+IND-CUST-1173,41,Male,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Credit Card,2025-01-27,Chennai
+IND-CUST-1121,69,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,2,799.0,1598.0,Cash on Delivery,2025-11-18,Hyderabad
+IND-CUST-1414,35,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2025-12-19,Kolkata
+IND-CUST-1611,29,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,Cash on Delivery,2025-12-10,Mumbai
+IND-CUST-1092,24,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Credit Card,2025-08-16,Kolkata
+IND-CUST-1377,68,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Credit Card,2025-12-09,Lucknow
+IND-CUST-1522,51,Other,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Debit Card,2026-02-11,Pune
+IND-CUST-1608,28,Female,Electronics,Dual-Port 65W GaN Charger,5,1999.0,9995.0,Debit Card,2025-06-02,Ahmedabad
+IND-CUST-1586,50,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,Net Banking,2026-02-12,Chennai
+IND-CUST-1551,22,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Debit Card,2026-02-06,Kochi
+IND-CUST-1543,48,Male,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,2,699.0,1398.0,Credit Card,2026-02-24,Kolkata
+IND-CUST-1128,50,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,4,499.0,1996.0,Net Banking,2025-04-03,Kochi
+IND-CUST-1614,25,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Debit Card,2025-03-04,Delhi NCR
+IND-CUST-1041,18,Female,Electronics,4K Ultra HD Streaming Stick,2,3499.0,6998.0,UPI,2025-05-12,Bengaluru
+IND-CUST-1036,29,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-10-06,Mumbai
+IND-CUST-1176,46,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-09-23,Chandigarh
+IND-CUST-1301,25,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Credit Card,2025-06-10,Jaipur
+IND-CUST-1536,28,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2025-12-19,Pune
+IND-CUST-1102,23,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,UPI,2025-06-03,Ahmedabad
+IND-CUST-1221,21,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,Credit Card,2025-05-23,Chennai
+IND-CUST-1132,34,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2025-07-15,Bengaluru
+IND-CUST-1168,27,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,4,699.0,2796.0,Debit Card,2025-12-22,Bengaluru
+IND-CUST-1147,47,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,UPI,2025-11-21,Chandigarh
+IND-CUST-1198,37,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Debit Card,2025-11-06,Kolkata
+IND-CUST-1168,27,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Debit Card,2025-07-14,Bengaluru
+IND-CUST-1027,48,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,UPI,2025-02-26,Chandigarh
+IND-CUST-1562,20,Female,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,UPI,2025-06-20,Hyderabad
+IND-CUST-1280,33,Other,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,UPI,2025-04-24,Mumbai
+IND-CUST-1388,22,Male,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Debit Card,2025-06-06,Ahmedabad
+IND-CUST-1603,30,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2025-10-20,Ahmedabad
+IND-CUST-1289,50,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-06-12,Hyderabad
+IND-CUST-1399,30,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,Net Banking,2025-07-26,Jaipur
+IND-CUST-1489,33,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Credit Card,2025-03-21,Kochi
+IND-CUST-1130,36,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Debit Card,2025-07-09,Lucknow
+IND-CUST-1256,45,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,UPI,2025-07-01,Kolkata
+IND-CUST-1480,19,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,4,2899.0,11596.0,Credit Card,2026-01-03,Kolkata
+IND-CUST-1235,20,Other,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,4,699.0,2796.0,UPI,2025-06-10,Mumbai
+IND-CUST-1093,29,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,Cash on Delivery,2025-03-26,Chennai
+IND-CUST-1590,23,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Credit Card,2026-03-24,Hyderabad
+IND-CUST-1011,27,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,Cash on Delivery,2025-03-11,Delhi NCR
+IND-CUST-1492,63,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,5,1199.0,5995.0,Net Banking,2025-12-24,Bengaluru
+IND-CUST-1128,50,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,3,1499.0,4497.0,Debit Card,2026-01-01,Kochi
+IND-CUST-1436,45,Other,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Cash on Delivery,2025-12-05,Chennai
+IND-CUST-1541,46,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,Cash on Delivery,2025-12-12,Chandigarh
+IND-CUST-1537,35,Other,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,Net Banking,2025-09-21,Lucknow
+IND-CUST-1362,23,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-02-27,Chandigarh
+IND-CUST-1347,23,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,Net Banking,2026-03-16,Jaipur
+IND-CUST-1121,69,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2026-01-13,Hyderabad
+IND-CUST-1583,21,Male,Clothing & Fashion,Comfort Fleece Winter Hoodie,3,1899.0,5697.0,Cash on Delivery,2025-09-21,Jaipur
+IND-CUST-1037,51,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,3,450.0,1350.0,UPI,2025-01-04,Delhi NCR
+IND-CUST-1472,25,Male,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2026-01-05,Kochi
+IND-CUST-1191,22,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Credit Card,2025-02-13,Kolkata
+IND-CUST-1542,23,Other,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Net Banking,2025-01-04,Mumbai
+IND-CUST-1160,35,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,UPI,2025-06-03,Delhi NCR
+IND-CUST-1374,34,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-08-13,Jaipur
+IND-CUST-1450,23,Female,Electronics,Precision Wireless Mouse,2,999.0,1998.0,UPI,2026-03-29,Hyderabad
+IND-CUST-1204,18,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2026-01-16,Lucknow
+IND-CUST-1340,59,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),2,3499.0,6998.0,Cash on Delivery,2025-12-07,Kochi
+IND-CUST-1273,26,Male,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Debit Card,2026-01-01,Bengaluru
+IND-CUST-1131,33,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Cash on Delivery,2026-03-08,Kolkata
+IND-CUST-1399,30,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,UPI,2025-06-26,Jaipur
+IND-CUST-1513,19,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Debit Card,2025-08-08,Hyderabad
+IND-CUST-1612,42,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2025-02-12,Bengaluru
+IND-CUST-1440,34,Female,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-05-24,Pune
+IND-CUST-1118,22,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,Debit Card,2025-04-12,Kochi
+IND-CUST-1486,28,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,Credit Card,2025-04-03,Chennai
+IND-CUST-1194,32,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,UPI,2025-03-03,Kochi
+IND-CUST-1136,31,Male,Clothing & Fashion,Comfort Fleece Winter Hoodie,5,1899.0,9495.0,Cash on Delivery,2025-08-07,Delhi NCR
+IND-CUST-1019,34,Male,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,3,1299.0,3897.0,UPI,2025-09-26,Chandigarh
+IND-CUST-1314,59,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-02-01,Kochi
+IND-CUST-1523,34,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-05-24,Jaipur
+IND-CUST-1360,29,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-01-21,Jaipur
+IND-CUST-1001,19,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,Credit Card,2025-11-07,Lucknow
+IND-CUST-1104,48,Male,Clothing & Fashion,Comfort Fleece Winter Hoodie,4,1899.0,7596.0,UPI,2025-06-05,Kolkata
+IND-CUST-1115,21,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Debit Card,2025-03-08,Jaipur
+IND-CUST-1340,59,Female,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,Credit Card,2025-11-06,Kochi
+IND-CUST-1381,68,Male,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2026-03-31,Jaipur
+IND-CUST-1109,18,Male,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Cash on Delivery,2026-03-29,Ahmedabad
+IND-CUST-1196,32,Male,Electronics,Dual-Port 65W GaN Charger,3,1999.0,5997.0,UPI,2025-10-07,Kolkata
+IND-CUST-1352,35,Other,Clothing & Fashion,Traditional Silk Blend Festive Saree,5,3499.0,17495.0,UPI,2026-01-05,Mumbai
+IND-CUST-1158,30,Female,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Debit Card,2026-03-26,Jaipur
+IND-CUST-1574,22,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Debit Card,2025-08-12,Kolkata
+IND-CUST-1070,32,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,3,699.0,2097.0,Credit Card,2025-01-12,Kolkata
+IND-CUST-1171,66,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,4,1199.0,4796.0,UPI,2025-10-17,Lucknow
+IND-CUST-1063,18,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Debit Card,2025-09-11,Chennai
+IND-CUST-1546,43,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,Debit Card,2025-07-16,Chennai
+IND-CUST-1576,30,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,UPI,2025-01-02,Kochi
+IND-CUST-1164,33,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,2,699.0,1398.0,Net Banking,2026-02-09,Kochi
+IND-CUST-1526,20,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-12-29,Bengaluru
+IND-CUST-1275,33,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Credit Card,2025-05-30,Kochi
+IND-CUST-1041,18,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,3,2899.0,8697.0,UPI,2026-02-09,Bengaluru
+IND-CUST-1053,43,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,5,4999.0,24995.0,UPI,2025-03-01,Mumbai
+IND-CUST-1002,34,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,UPI,2025-02-12,Mumbai
+IND-CUST-1563,21,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Credit Card,2025-06-16,Kolkata
+IND-CUST-1059,56,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,UPI,2025-05-24,Kolkata
+IND-CUST-1181,25,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Cash on Delivery,2026-02-03,Pune
+IND-CUST-1598,43,Female,Electronics,Fast Charging 20000mAh Power Bank,4,1499.0,5996.0,UPI,2025-11-17,Kochi
+IND-CUST-1619,34,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,UPI,2025-04-15,Pune
+IND-CUST-1596,20,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,UPI,2025-04-29,Lucknow
+IND-CUST-1445,33,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-04-05,Kochi
+IND-CUST-1181,25,Other,Electronics,Dual-Port 65W GaN Charger,4,1999.0,7996.0,UPI,2025-05-25,Pune
+IND-CUST-1022,22,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,2,2499.0,4998.0,Debit Card,2025-04-07,Jaipur
+IND-CUST-1072,39,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Net Banking,2025-07-26,Chandigarh
+IND-CUST-1103,41,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,2,499.0,998.0,Debit Card,2025-11-05,Delhi NCR
+IND-CUST-1103,41,Male,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2026-03-02,Delhi NCR
+IND-CUST-1045,32,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Cash on Delivery,2025-11-04,Chennai
+IND-CUST-1014,29,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,4,599.0,2396.0,UPI,2026-01-12,Ahmedabad
+IND-CUST-1347,23,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,Credit Card,2025-10-16,Jaipur
+IND-CUST-1455,33,Other,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,UPI,2025-01-29,Kolkata
+IND-CUST-1557,21,Other,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2025-01-23,Chandigarh
+IND-CUST-1106,29,Other,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Net Banking,2025-03-14,Kolkata
+IND-CUST-1002,34,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-06-30,Mumbai
+IND-CUST-1294,34,Other,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,Debit Card,2025-02-27,Kolkata
+IND-CUST-1504,24,Other,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Cash on Delivery,2025-05-25,Delhi NCR
+IND-CUST-1366,43,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,Cash on Delivery,2025-02-13,Lucknow
+IND-CUST-1045,32,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2025-04-03,Chennai
+IND-CUST-1436,45,Other,Electronics,Ergonomic Mechanical Keyboard,2,3999.0,7998.0,UPI,2026-03-25,Chennai
+IND-CUST-1107,23,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,Cash on Delivery,2026-02-20,Pune
+IND-CUST-1079,44,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,2,499.0,998.0,UPI,2025-03-17,Ahmedabad
+IND-CUST-1400,32,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,UPI,2025-08-07,Kochi
+IND-CUST-1286,27,Female,Electronics,Precision Wireless Mouse,5,999.0,4995.0,UPI,2025-07-17,Delhi NCR
+IND-CUST-1362,23,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Cash on Delivery,2025-11-05,Chandigarh
+IND-CUST-1342,33,Female,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Credit Card,2025-10-03,Lucknow
+IND-CUST-1547,18,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,2,699.0,1398.0,UPI,2025-10-25,Kolkata
+IND-CUST-1432,33,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,Debit Card,2025-12-26,Hyderabad
+IND-CUST-1090,49,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Net Banking,2025-07-05,Jaipur
+IND-CUST-1572,26,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,3,2499.0,7497.0,UPI,2025-06-28,Lucknow
+IND-CUST-1370,32,Male,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,UPI,2026-03-13,Hyderabad
+IND-CUST-1565,32,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,Debit Card,2025-01-29,Jaipur
+IND-CUST-1142,21,Male,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-08-06,Mumbai
+IND-CUST-1381,68,Male,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,UPI,2026-03-05,Jaipur
+IND-CUST-1609,32,Male,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-05-06,Pune
+IND-CUST-1079,44,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,UPI,2026-01-16,Ahmedabad
+IND-CUST-1144,34,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,4,349.0,1396.0,Credit Card,2026-01-05,Ahmedabad
+IND-CUST-1346,35,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2026-03-28,Lucknow
+IND-CUST-1033,27,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2026-03-03,Ahmedabad
+IND-CUST-1434,23,Other,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,Debit Card,2025-10-20,Ahmedabad
+IND-CUST-1514,29,Other,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2025-02-17,Chandigarh
+IND-CUST-1535,38,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,2,2499.0,4998.0,UPI,2025-01-29,Chandigarh
+IND-CUST-1225,30,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,Credit Card,2025-06-10,Chennai
+IND-CUST-1415,23,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,UPI,2025-08-06,Delhi NCR
+IND-CUST-1200,42,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Credit Card,2026-03-10,Lucknow
+IND-CUST-1344,38,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-04-19,Pune
+IND-CUST-1612,42,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-01-17,Bengaluru
+IND-CUST-1247,19,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-01-24,Delhi NCR
+IND-CUST-1050,22,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-05-25,Chennai
+IND-CUST-1408,22,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,2,2899.0,5798.0,Debit Card,2025-03-08,Kolkata
+IND-CUST-1100,21,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Debit Card,2025-01-13,Chandigarh
+IND-CUST-1602,33,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,Net Banking,2025-05-29,Bengaluru
+IND-CUST-1166,47,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,Credit Card,2026-01-03,Hyderabad
+IND-CUST-1238,21,Female,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,2,599.0,1198.0,Debit Card,2025-03-24,Delhi NCR
+IND-CUST-1514,29,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,Credit Card,2026-01-29,Chandigarh
+IND-CUST-1350,33,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2026-03-15,Bengaluru
+IND-CUST-1442,32,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Cash on Delivery,2025-11-07,Chandigarh
+IND-CUST-1077,35,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,Credit Card,2026-02-17,Delhi NCR
+IND-CUST-1016,24,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,Cash on Delivery,2026-02-05,Jaipur
+IND-CUST-1090,49,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,Cash on Delivery,2025-03-24,Jaipur
+IND-CUST-1070,32,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2025-12-30,Kolkata
+IND-CUST-1472,25,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,4,3499.0,13996.0,Debit Card,2025-08-15,Kochi
+IND-CUST-1144,34,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,UPI,2025-05-27,Ahmedabad
+IND-CUST-1411,42,Male,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Credit Card,2025-11-16,Pune
+IND-CUST-1322,40,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2026-03-25,Lucknow
+IND-CUST-1044,21,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Debit Card,2025-12-25,Bengaluru
+IND-CUST-1575,49,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-07-24,Delhi NCR
+IND-CUST-1075,19,Female,Electronics,Dual-Port 65W GaN Charger,2,1999.0,3998.0,UPI,2025-08-28,Delhi NCR
+IND-CUST-1548,27,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2025-02-25,Ahmedabad
+IND-CUST-1407,35,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-06-25,Delhi NCR
+IND-CUST-1619,34,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,UPI,2025-08-21,Pune
+IND-CUST-1040,24,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2025-10-18,Hyderabad
+IND-CUST-1033,27,Male,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,Debit Card,2026-02-09,Ahmedabad
+IND-CUST-1441,62,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Net Banking,2026-01-24,Delhi NCR
+IND-CUST-1434,23,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,UPI,2025-07-27,Ahmedabad
+IND-CUST-1084,22,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,3,3499.0,10497.0,Credit Card,2025-12-09,Hyderabad
+IND-CUST-1266,30,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Net Banking,2025-06-25,Lucknow
+IND-CUST-1305,32,Female,Electronics,Precision Wireless Mouse,4,999.0,3996.0,Credit Card,2025-10-02,Jaipur
+IND-CUST-1165,22,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,Debit Card,2025-07-19,Chandigarh
+IND-CUST-1011,27,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Debit Card,2025-10-24,Delhi NCR
+IND-CUST-1149,50,Other,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Net Banking,2025-03-17,Hyderabad
+IND-CUST-1512,32,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,2,899.0,1798.0,Debit Card,2025-05-15,Hyderabad
+IND-CUST-1534,31,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,4,699.0,2796.0,Net Banking,2025-11-21,Chennai
+IND-CUST-1461,18,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,UPI,2025-04-07,Ahmedabad
+IND-CUST-1431,28,Other,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,2,499.0,998.0,UPI,2025-04-18,Kochi
+IND-CUST-1196,32,Male,Books & Stationery,Minimalist Daily Productivity Desk Planner,4,450.0,1800.0,UPI,2025-07-06,Kolkata
+IND-CUST-1017,48,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Net Banking,2025-12-25,Chandigarh
+IND-CUST-1512,32,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,1,1399.0,1399.0,UPI,2026-03-01,Hyderabad
+IND-CUST-1556,23,Male,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2025-08-08,Chennai
+IND-CUST-1383,21,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2026-03-09,Ahmedabad
+IND-CUST-1448,30,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,Cash on Delivery,2026-03-15,Mumbai
+IND-CUST-1102,23,Male,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,UPI,2025-07-30,Ahmedabad
+IND-CUST-1107,23,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,2,3299.0,6598.0,Credit Card,2025-11-21,Pune
+IND-CUST-1455,33,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,UPI,2025-08-04,Kolkata
+IND-CUST-1217,51,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2026-03-15,Kochi
+IND-CUST-1481,34,Male,Books & Stationery,Classic Fountain Pen with Ink Cartridges,4,799.0,3196.0,Net Banking,2025-07-31,Mumbai
+IND-CUST-1406,42,Other,Electronics,Precision Wireless Mouse,2,999.0,1998.0,Credit Card,2025-05-18,Jaipur
+IND-CUST-1271,26,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,2,1599.0,3198.0,UPI,2025-08-01,Chennai
+IND-CUST-1034,36,Male,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,Net Banking,2025-09-23,Hyderabad
+IND-CUST-1615,26,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,4,2499.0,9996.0,Cash on Delivery,2025-05-04,Jaipur
+IND-CUST-1570,28,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,2,499.0,998.0,UPI,2025-01-27,Bengaluru
+IND-CUST-1592,30,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,4,1599.0,6396.0,UPI,2025-06-12,Bengaluru
+IND-CUST-1530,22,Female,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Debit Card,2025-09-16,Kochi
+IND-CUST-1122,34,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Debit Card,2025-05-14,Hyderabad
+IND-CUST-1567,28,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-08-12,Mumbai
+IND-CUST-1012,25,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Credit Card,2025-10-06,Bengaluru
+IND-CUST-1081,35,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,UPI,2025-08-21,Ahmedabad
+IND-CUST-1367,33,Male,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Credit Card,2025-05-06,Jaipur
+IND-CUST-1388,22,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2025-03-15,Ahmedabad
+IND-CUST-1024,69,Male,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,3,699.0,2097.0,UPI,2025-11-02,Lucknow
+IND-CUST-1126,28,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-02-09,Ahmedabad
+IND-CUST-1507,28,Female,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,Credit Card,2025-01-12,Kolkata
+IND-CUST-1424,33,Other,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-06-10,Kochi
+IND-CUST-1462,57,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Net Banking,2025-12-04,Chandigarh
+IND-CUST-1581,38,Other,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Cash on Delivery,2025-06-27,Mumbai
+IND-CUST-1496,30,Female,Books & Stationery,Minimalist Daily Productivity Desk Planner,1,450.0,450.0,UPI,2026-01-15,Ahmedabad
+IND-CUST-1261,19,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,2,499.0,998.0,Credit Card,2025-09-23,Jaipur
+IND-CUST-1525,30,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,3,499.0,1497.0,UPI,2025-04-22,Hyderabad
+IND-CUST-1031,34,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Debit Card,2025-03-06,Jaipur
+IND-CUST-1275,33,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,4,1499.0,5996.0,UPI,2025-10-10,Kochi
+IND-CUST-1302,29,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Cash on Delivery,2025-04-09,Chennai
+IND-CUST-1257,35,Female,Electronics,Ergonomic Mechanical Keyboard,4,3999.0,15996.0,UPI,2026-02-11,Chandigarh
+IND-CUST-1602,33,Male,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,4,1499.0,5996.0,Credit Card,2026-03-29,Bengaluru
+IND-CUST-1457,33,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,2,1899.0,3798.0,Credit Card,2025-11-07,Mumbai
+IND-CUST-1393,30,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,Credit Card,2025-02-02,Jaipur
+IND-CUST-1461,18,Female,Electronics,Wireless Noise-Canceling Earbuds,4,2999.0,11996.0,UPI,2025-07-29,Ahmedabad
+IND-CUST-1301,25,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,4,1199.0,4796.0,Credit Card,2025-07-23,Jaipur
+IND-CUST-1031,34,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-05-06,Jaipur
+IND-CUST-1075,19,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,Debit Card,2025-03-04,Delhi NCR
+IND-CUST-1010,24,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,2,1799.0,3598.0,UPI,2025-10-18,Hyderabad
+IND-CUST-1330,43,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,UPI,2025-04-19,Pune
+IND-CUST-1540,38,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,Credit Card,2026-03-29,Pune
+IND-CUST-1077,35,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,Debit Card,2025-06-12,Delhi NCR
+IND-CUST-1328,18,Male,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Credit Card,2025-05-21,Pune
+IND-CUST-1432,33,Other,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-07-16,Hyderabad
+IND-CUST-1243,22,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Debit Card,2025-10-22,Hyderabad
+IND-CUST-1005,24,Female,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,Cash on Delivery,2025-01-19,Mumbai
+IND-CUST-1547,18,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-08-29,Kolkata
+IND-CUST-1098,45,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,2,1699.0,3398.0,UPI,2026-01-21,Chennai
+IND-CUST-1355,19,Female,Clothing & Fashion,Waterproof Windcheater Jacket,1,2299.0,2299.0,UPI,2025-06-02,Kolkata
+IND-CUST-1466,25,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,4,1199.0,4796.0,UPI,2025-07-11,Ahmedabad
+IND-CUST-1106,29,Other,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,UPI,2025-06-15,Kolkata
+IND-CUST-1447,57,Male,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Net Banking,2025-07-08,Lucknow
+IND-CUST-1551,22,Male,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Debit Card,2025-02-26,Kochi
+IND-CUST-1050,22,Female,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Debit Card,2026-02-10,Chennai
+IND-CUST-1389,29,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,3,2499.0,7497.0,Credit Card,2025-03-03,Bengaluru
+IND-CUST-1130,36,Female,Clothing & Fashion,Ethnic Embroidered Kurta Set,2,2499.0,4998.0,Net Banking,2025-07-31,Lucknow
+IND-CUST-1458,49,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Credit Card,2025-12-05,Hyderabad
+IND-CUST-1502,36,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,2,799.0,1598.0,Credit Card,2025-02-17,Kolkata
+IND-CUST-1271,26,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,Credit Card,2026-03-23,Chennai
+IND-CUST-1249,26,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,3,1199.0,3597.0,Debit Card,2025-02-08,Mumbai
+IND-CUST-1507,28,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Credit Card,2025-07-17,Kolkata
+IND-CUST-1193,27,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Credit Card,2025-09-28,Jaipur
+IND-CUST-1527,35,Female,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Credit Card,2026-03-11,Delhi NCR
+IND-CUST-1517,19,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-08-20,Kolkata
+IND-CUST-1526,20,Other,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,UPI,2025-03-26,Bengaluru
+IND-CUST-1315,21,Other,Books & Stationery,Minimalist Daily Productivity Desk Planner,2,450.0,900.0,UPI,2026-03-25,Lucknow
+IND-CUST-1110,33,Male,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,Credit Card,2025-05-17,Mumbai
+IND-CUST-1030,18,Male,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-10-09,Pune
+IND-CUST-1087,18,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Credit Card,2025-09-18,Chennai
+IND-CUST-1342,33,Female,Electronics,Ergonomic Mechanical Keyboard,1,3999.0,3999.0,UPI,2025-07-15,Lucknow
+IND-CUST-1433,30,Female,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Credit Card,2025-09-29,Delhi NCR
+IND-CUST-1506,23,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,2,1299.0,2598.0,Credit Card,2025-02-26,Delhi NCR
+IND-CUST-1225,30,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-09-30,Chennai
+IND-CUST-1104,48,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2026-01-11,Kolkata
+IND-CUST-1275,33,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,UPI,2025-05-28,Kochi
+IND-CUST-1611,29,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Credit Card,2025-12-25,Mumbai
+IND-CUST-1489,33,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2025-02-05,Kochi
+IND-CUST-1171,66,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-08-31,Lucknow
+IND-CUST-1439,32,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,4,2499.0,9996.0,Net Banking,2025-03-29,Chandigarh
+IND-CUST-1010,24,Female,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,Credit Card,2025-05-07,Hyderabad
+IND-CUST-1484,53,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Cash on Delivery,2026-03-04,Ahmedabad
+IND-CUST-1234,35,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,Debit Card,2025-02-21,Chandigarh
+IND-CUST-1312,40,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,Debit Card,2025-10-07,Pune
+IND-CUST-1264,26,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,UPI,2025-06-30,Ahmedabad
+IND-CUST-1309,38,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Net Banking,2026-03-08,Ahmedabad
+IND-CUST-1611,29,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,2,2899.0,5798.0,Debit Card,2025-01-11,Mumbai
+IND-CUST-1152,23,Male,Books & Stationery,Hardcover Dotted Premium Journal Notebook,2,499.0,998.0,UPI,2025-09-12,Bengaluru
+IND-CUST-1032,20,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Debit Card,2025-04-10,Kolkata
+IND-CUST-1387,28,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,3,2899.0,8697.0,Debit Card,2025-08-19,Hyderabad
+IND-CUST-1540,38,Female,Electronics,Precision Wireless Mouse,3,999.0,2997.0,UPI,2025-08-02,Pune
+IND-CUST-1283,33,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2026-03-04,Ahmedabad
+IND-CUST-1126,28,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Debit Card,2025-06-27,Ahmedabad
+IND-CUST-1296,25,Other,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Debit Card,2025-08-27,Pune
+IND-CUST-1154,49,Female,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,2,2899.0,5798.0,Credit Card,2025-06-05,Kolkata
+IND-CUST-1499,21,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,UPI,2025-05-25,Pune
+IND-CUST-1608,28,Female,Electronics,Dual-Port 65W GaN Charger,1,1999.0,1999.0,UPI,2025-12-05,Ahmedabad
+IND-CUST-1001,19,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2026-03-16,Lucknow
+IND-CUST-1515,45,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-05-19,Bengaluru
+IND-CUST-1147,47,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Net Banking,2025-05-29,Chandigarh
+IND-CUST-1225,30,Male,Electronics,Precision Wireless Mouse,1,999.0,999.0,Debit Card,2025-07-17,Chennai
+IND-CUST-1433,30,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,3,699.0,2097.0,Cash on Delivery,2025-11-02,Delhi NCR
+IND-CUST-1319,28,Other,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,UPI,2025-10-24,Ahmedabad
+IND-CUST-1143,27,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2025-04-13,Ahmedabad
+IND-CUST-1309,38,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Credit Card,2025-10-07,Ahmedabad
+IND-CUST-1188,23,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Credit Card,2025-12-22,Kolkata
+IND-CUST-1321,23,Female,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,Credit Card,2025-08-07,Chennai
+IND-CUST-1478,18,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Net Banking,2025-01-14,Kolkata
+IND-CUST-1432,33,Other,Electronics,Bluetooth Portable Bass Speaker,2,1899.0,3798.0,UPI,2025-05-05,Hyderabad
+IND-CUST-1595,43,Other,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,2,4999.0,9998.0,Net Banking,2026-03-26,Jaipur
+IND-CUST-1301,25,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Debit Card,2025-08-25,Jaipur
+IND-CUST-1531,21,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,UPI,2025-11-29,Hyderabad
+IND-CUST-1110,33,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,2,699.0,1398.0,Credit Card,2025-12-20,Mumbai
+IND-CUST-1340,59,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,2,899.0,1798.0,Debit Card,2026-01-14,Kochi
+IND-CUST-1055,28,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Debit Card,2025-09-11,Jaipur
+IND-CUST-1140,25,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-01-04,Delhi NCR
+IND-CUST-1497,31,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2025-11-06,Lucknow
+IND-CUST-1124,35,Other,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,Credit Card,2026-03-03,Mumbai
+IND-CUST-1518,33,Female,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,3,1799.0,5397.0,UPI,2025-09-05,Pune
+IND-CUST-1189,43,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Credit Card,2025-08-13,Kochi
+IND-CUST-1127,39,Other,Clothing & Fashion,Slim-Fit Stretch Denim Jeans,1,1799.0,1799.0,Debit Card,2025-12-03,Ahmedabad
+IND-CUST-1247,19,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,Credit Card,2025-05-29,Delhi NCR
+IND-CUST-1103,41,Male,Books & Stationery,Financial Freedom & Investing Guide Paperback,1,399.0,399.0,UPI,2025-07-17,Delhi NCR
+IND-CUST-1110,33,Male,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-03-03,Mumbai
+IND-CUST-1578,50,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Credit Card,2025-12-03,Pune
+IND-CUST-1456,33,Other,Electronics,Precision Wireless Mouse,4,999.0,3996.0,Credit Card,2026-01-06,Chennai
+IND-CUST-1470,20,Other,Clothing & Fashion,Ethnic Embroidered Kurta Set,1,2499.0,2499.0,Net Banking,2025-09-15,Delhi NCR
+IND-CUST-1216,35,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-03-19,Kolkata
+IND-CUST-1361,67,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Debit Card,2026-02-07,Lucknow
+IND-CUST-1144,34,Male,Clothing & Fashion,Comfort Fleece Winter Hoodie,3,1899.0,5697.0,UPI,2026-03-06,Ahmedabad
+IND-CUST-1496,30,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,2,3499.0,6998.0,UPI,2025-12-29,Ahmedabad
+IND-CUST-1520,43,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Debit Card,2025-10-29,Bengaluru
+IND-CUST-1595,43,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2026-01-11,Jaipur
+IND-CUST-1163,32,Female,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,Debit Card,2025-06-15,Hyderabad
+IND-CUST-1238,21,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Net Banking,2026-01-08,Delhi NCR
+IND-CUST-1394,18,Female,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,3,699.0,2097.0,UPI,2025-05-09,Kochi
+IND-CUST-1118,22,Male,Electronics,Smart Fitness Watch V2,1,4499.0,4499.0,UPI,2025-11-20,Kochi
+IND-CUST-1031,34,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,UPI,2025-03-10,Jaipur
+IND-CUST-1588,26,Female,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2025-05-27,Kochi
+IND-CUST-1231,25,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Credit Card,2026-02-09,Chennai
+IND-CUST-1197,27,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Credit Card,2025-04-15,Pune
+IND-CUST-1035,21,Female,Sports & Fitness,Extra-Dense Anti-Skid Yoga Mat 6mm,1,899.0,899.0,UPI,2025-10-07,Chennai
+IND-CUST-1074,27,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2026-02-28,Pune
+IND-CUST-1486,28,Other,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,2,2899.0,5798.0,Credit Card,2025-03-12,Chennai
+IND-CUST-1069,27,Other,Clothing & Fashion,Handloom Cotton Chino Trousers,3,1599.0,4797.0,Credit Card,2025-03-07,Kolkata
+IND-CUST-1530,22,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-10-04,Kochi
+IND-CUST-1339,61,Male,Electronics,Ergonomic Mechanical Keyboard,3,3999.0,11997.0,UPI,2025-12-27,Chennai
+IND-CUST-1367,33,Male,Electronics,Bluetooth Portable Bass Speaker,4,1899.0,7596.0,UPI,2025-10-22,Jaipur
+IND-CUST-1248,50,Female,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,UPI,2025-01-30,Bengaluru
+IND-CUST-1560,35,Male,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,Cash on Delivery,2025-05-15,Kolkata
+IND-CUST-1031,34,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,UPI,2026-01-27,Jaipur
+IND-CUST-1061,30,Male,Electronics,Noise-Canceling Over-Ear Headphones,2,7999.0,15998.0,UPI,2026-01-23,Ahmedabad
+IND-CUST-1064,34,Male,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,Credit Card,2025-11-09,Mumbai
+IND-CUST-1037,51,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,4,699.0,2796.0,Credit Card,2025-11-10,Delhi NCR
+IND-CUST-1083,25,Female,Sports & Fitness,Lightweight Badminton Racket with Cover,4,1699.0,6796.0,UPI,2025-01-22,Hyderabad
+IND-CUST-1107,23,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,UPI,2025-09-02,Pune
+IND-CUST-1311,32,Female,Beauty & Personal Care,Ultra-Matte Mineral SPF 50 Gel Sunscreen,1,499.0,499.0,UPI,2026-02-01,Jaipur
+IND-CUST-1201,30,Female,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Debit Card,2025-01-10,Jaipur
+IND-CUST-1566,26,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,2,1399.0,2798.0,Debit Card,2025-08-09,Mumbai
+IND-CUST-1438,28,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,1,1299.0,1299.0,Net Banking,2025-07-08,Kochi
+IND-CUST-1361,67,Female,Electronics,Fast Charging 20000mAh Power Bank,3,1499.0,4497.0,UPI,2025-02-17,Lucknow
+IND-CUST-1603,30,Female,Electronics,Fast Charging 20000mAh Power Bank,2,1499.0,2998.0,Net Banking,2026-02-11,Ahmedabad
+IND-CUST-1550,57,Male,Home & Kitchen,Multi-Speed Food Mixer Grinder 750W,1,3299.0,3299.0,Debit Card,2026-02-21,Lucknow
+IND-CUST-1059,56,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,UPI,2025-06-10,Kolkata
+IND-CUST-1359,18,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,5,4999.0,24995.0,UPI,2025-07-23,Ahmedabad
+IND-CUST-1491,19,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-10-06,Hyderabad
+IND-CUST-1211,27,Other,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,2,1199.0,2398.0,Net Banking,2026-03-16,Chennai
+IND-CUST-1226,33,Female,Clothing & Fashion,Comfort Fleece Winter Hoodie,4,1899.0,7596.0,Debit Card,2025-05-30,Mumbai
+IND-CUST-1251,28,Male,Home & Kitchen,Non-Stick Hard Anodized 3-Piece Cookware,1,2899.0,2899.0,Credit Card,2025-02-23,Lucknow
+IND-CUST-1056,27,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,2,1599.0,3198.0,Credit Card,2025-05-24,Kochi
+IND-CUST-1081,35,Female,Electronics,Bluetooth Portable Bass Speaker,3,1899.0,5697.0,Credit Card,2025-06-06,Ahmedabad
+IND-CUST-1567,28,Male,Electronics,Precision Wireless Mouse,2,999.0,1998.0,Debit Card,2025-01-19,Mumbai
+IND-CUST-1241,49,Female,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,2,349.0,698.0,Cash on Delivery,2025-01-11,Lucknow
+IND-CUST-1511,32,Female,Sports & Fitness,Engineered Mesh Running Shoes,1,2899.0,2899.0,UPI,2026-02-28,Delhi NCR
+IND-CUST-1087,18,Female,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,Net Banking,2025-07-16,Chennai
+IND-CUST-1455,33,Other,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Credit Card,2025-09-30,Kolkata
+IND-CUST-1054,30,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,UPI,2025-01-14,Chandigarh
+IND-CUST-1345,50,Other,Books & Stationery,Classic Fountain Pen with Ink Cartridges,2,799.0,1598.0,Credit Card,2026-01-23,Hyderabad
+IND-CUST-1029,31,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,3,1599.0,4797.0,Debit Card,2026-01-12,Hyderabad
+IND-CUST-1059,56,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Debit Card,2025-12-14,Kolkata
+IND-CUST-1295,22,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Credit Card,2025-10-18,Ahmedabad
+IND-CUST-1532,47,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,Cash on Delivery,2025-05-02,Bengaluru
+IND-CUST-1136,31,Male,Sports & Fitness,Engineered Mesh Running Shoes,2,2899.0,5798.0,Cash on Delivery,2025-02-13,Delhi NCR
+IND-CUST-1256,45,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,UPI,2025-11-12,Kolkata
+IND-CUST-1281,49,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,2,1899.0,3798.0,Debit Card,2025-11-08,Chandigarh
+IND-CUST-1013,26,Male,Electronics,Precision Wireless Mouse,2,999.0,1998.0,Net Banking,2025-08-16,Hyderabad
+IND-CUST-1474,29,Female,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Cash on Delivery,2025-09-03,Chennai
+IND-CUST-1570,28,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-11-09,Bengaluru
+IND-CUST-1565,32,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2026-02-07,Jaipur
+IND-CUST-1283,33,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,Credit Card,2025-03-17,Ahmedabad
+IND-CUST-1051,40,Other,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,Credit Card,2025-08-14,Jaipur
+IND-CUST-1594,40,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,Debit Card,2025-05-13,Delhi NCR
+IND-CUST-1264,26,Female,Electronics,Precision Wireless Mouse,1,999.0,999.0,UPI,2025-05-01,Ahmedabad
+IND-CUST-1359,18,Male,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,Credit Card,2025-05-02,Ahmedabad
+IND-CUST-1209,27,Male,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,Debit Card,2025-02-06,Kochi
+IND-CUST-1437,19,Male,Sports & Fitness,Rubber Coated Hex Dumbbell Pair (10kg),1,3499.0,3499.0,Credit Card,2025-07-04,Delhi NCR
+IND-CUST-1344,38,Female,Books & Stationery,Classic Fountain Pen with Ink Cartridges,1,799.0,799.0,Cash on Delivery,2025-11-15,Pune
+IND-CUST-1032,20,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-10-30,Kolkata
+IND-CUST-1027,48,Male,Electronics,4K Ultra HD Streaming Stick,2,3499.0,6998.0,Credit Card,2026-02-04,Chandigarh
+IND-CUST-1521,30,Other,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2026-03-02,Jaipur
+IND-CUST-1597,32,Female,Electronics,Bluetooth Portable Bass Speaker,1,1899.0,1899.0,Cash on Delivery,2025-02-10,Chennai
+IND-CUST-1080,67,Female,Books & Stationery,Hardcover Dotted Premium Journal Notebook,1,499.0,499.0,Cash on Delivery,2025-11-19,Pune
+IND-CUST-1562,20,Female,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,2,2199.0,4398.0,Net Banking,2025-09-28,Hyderabad
+IND-CUST-1053,43,Male,Home & Kitchen,Ceramic Ultrasonic Essential Oil Diffuser,1,1199.0,1199.0,UPI,2025-05-18,Mumbai
+IND-CUST-1200,42,Male,Sports & Fitness,Engineered Mesh Running Shoes,3,2899.0,8697.0,UPI,2026-02-14,Lucknow
+IND-CUST-1371,33,Male,Electronics,Precision Wireless Mouse,2,999.0,1998.0,UPI,2025-05-04,Hyderabad
+IND-CUST-1456,33,Other,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,1,699.0,699.0,UPI,2025-09-16,Chennai
+IND-CUST-1079,44,Male,Sports & Fitness,Resistance Loop Bands 5-Piece Exercise Set,1,599.0,599.0,UPI,2026-02-07,Ahmedabad
+IND-CUST-1429,56,Other,Electronics,Bluetooth Portable Bass Speaker,3,1899.0,5697.0,UPI,2025-07-28,Hyderabad
+IND-CUST-1599,33,Other,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,UPI,2025-06-10,Kolkata
+IND-CUST-1121,69,Male,Electronics,Fast Charging 20000mAh Power Bank,1,1499.0,1499.0,UPI,2025-09-11,Hyderabad
+IND-CUST-1203,27,Male,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2025-05-15,Jaipur
+IND-CUST-1568,49,Male,Beauty & Personal Care,Vitamin C Radiance Face Moisturizer,2,699.0,1398.0,UPI,2025-01-18,Chennai
+IND-CUST-1442,32,Male,Electronics,Bluetooth Portable Bass Speaker,5,1899.0,9495.0,UPI,2026-03-20,Chandigarh
+IND-CUST-1543,48,Male,Sports & Fitness,Lightweight Badminton Racket with Cover,1,1699.0,1699.0,UPI,2025-10-13,Kolkata
+IND-CUST-1248,50,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Debit Card,2025-06-22,Bengaluru
+IND-CUST-1606,18,Other,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,5,1299.0,6495.0,UPI,2026-01-14,Bengaluru
+IND-CUST-1364,20,Female,Books & Stationery,Financial Freedom & Investing Guide Paperback,2,399.0,798.0,Debit Card,2025-08-12,Chandigarh
+IND-CUST-1297,32,Male,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2026-01-28,Pune
+IND-CUST-1604,28,Male,Sports & Fitness,Water-Resistant Sports Duffle Gym Bag,1,1099.0,1099.0,Net Banking,2025-10-31,Kolkata
+IND-CUST-1608,28,Female,Clothing & Fashion,Traditional Silk Blend Festive Saree,1,3499.0,3499.0,UPI,2025-09-18,Ahmedabad
+IND-CUST-1603,30,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Credit Card,2025-01-25,Ahmedabad
+IND-CUST-1578,50,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,1,699.0,699.0,Net Banking,2025-08-07,Pune
+IND-CUST-1293,29,Other,Clothing & Fashion,Waterproof Windcheater Jacket,2,2299.0,4598.0,Cash on Delivery,2025-01-22,Bengaluru
+IND-CUST-1216,35,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,1,1899.0,1899.0,Credit Card,2025-02-20,Kolkata
+IND-CUST-1356,49,Female,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,Credit Card,2025-04-25,Ahmedabad
+IND-CUST-1174,33,Other,Clothing & Fashion,Comfort Fleece Winter Hoodie,5,1899.0,9495.0,Debit Card,2025-04-29,Pune
+IND-CUST-1286,27,Female,Electronics,4K Ultra HD Streaming Stick,1,3499.0,3499.0,Credit Card,2025-03-28,Delhi NCR
+IND-CUST-1029,31,Female,Home & Kitchen,Pre-Seasoned Cast Iron Dosa Tawa,4,1299.0,5196.0,Credit Card,2026-02-14,Hyderabad
+IND-CUST-1200,42,Male,Electronics,Wireless Noise-Canceling Earbuds,1,2999.0,2999.0,UPI,2025-10-20,Lucknow
+IND-CUST-1437,19,Male,Beauty & Personal Care,Salon Pro Ionic Hair Dryer 2000W,1,2199.0,2199.0,Credit Card,2025-02-26,Delhi NCR
+IND-CUST-1123,33,Female,Clothing & Fashion,Handloom Cotton Chino Trousers,1,1599.0,1599.0,UPI,2025-03-12,Kolkata
+IND-CUST-1286,27,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,4,599.0,2396.0,Debit Card,2026-01-17,Delhi NCR
+IND-CUST-1228,33,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,UPI,2025-08-21,Kochi
+IND-CUST-1526,20,Other,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,2,599.0,1198.0,UPI,2025-01-20,Bengaluru
+IND-CUST-1444,18,Female,Electronics,Noise-Canceling Over-Ear Headphones,1,7999.0,7999.0,Net Banking,2025-12-05,Chennai
+IND-CUST-1037,51,Female,Books & Stationery,Data Science & Machine Learning with Python,1,899.0,899.0,Credit Card,2026-03-23,Delhi NCR
+IND-CUST-1226,33,Female,Beauty & Personal Care,Ayurvedic Deep Scalp Conditioning Hair Oil,1,449.0,449.0,Credit Card,2025-04-06,Mumbai
+IND-CUST-1506,23,Female,Electronics,Smart Fitness Watch V2,2,4499.0,8998.0,UPI,2026-01-06,Delhi NCR
+IND-CUST-1373,32,Female,Beauty & Personal Care,10% Niacinamide Clarifying Face Serum,1,599.0,599.0,Credit Card,2025-01-02,Kolkata
+IND-CUST-1302,29,Male,Clothing & Fashion,Pure Cotton Solid Crewneck T-Shirt,1,699.0,699.0,UPI,2025-09-21,Chennai
+IND-CUST-1216,35,Other,Beauty & Personal Care,Organic Green Tea Foaming Face Wash,1,349.0,349.0,UPI,2025-11-27,Kolkata
+IND-CUST-1007,54,Male,Home & Kitchen,Automatic Espresso & Drip Coffee Machine,1,4999.0,4999.0,UPI,2025-09-21,Mumbai
+IND-CUST-1054,30,Female,Electronics,Wireless Noise-Canceling Earbuds,2,2999.0,5998.0,Debit Card,2025-08-30,Chandigarh
+IND-CUST-1034,36,Male,Home & Kitchen,100% Cotton 300TC Double Bed Sheet Set,3,1399.0,4197.0,Debit Card,2025-08-23,Hyderabad
+IND-CUST-1175,29,Female,Electronics,Precision Wireless Mouse,3,999.0,2997.0,UPI,2025-09-01,Pune
+IND-CUST-1123,33,Female,Clothing & Fashion,Formal Wrinkle-Free Office Shirt,1,1499.0,1499.0,UPI,2026-02-06,Kolkata
+IND-CUST-1346,35,Female,Home & Kitchen,Stainless Steel Insulated Water Bottle 1L,5,699.0,3495.0,UPI,2025-06-30,Lucknow
